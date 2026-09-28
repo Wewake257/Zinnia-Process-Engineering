@@ -1,0 +1,1175 @@
+PolicyID,PolicyType,ChurnProba,TotalFrictionScore,CLV_estimate,RetentionAction
+POL002256,Health,0.9979836626664709,11,61016.13,Premium Discount + Account Review
+POL001240,Auto,0.9975251384677304,11,32303.51,Billing Team Escalation
+POL002292,Term Life,0.9973817841210201,9,30365.92,Claims Review + Goodwill Credit
+POL002489,Term Life,0.997120439847424,9,11827.39,Claims Review + Goodwill Credit
+POL001604,Term Life,0.9966854684232083,9,42645.62,Billing Team Escalation
+POL006973,Health,0.9964095881338207,9,31122.04,Claims Review + Goodwill Credit
+POL000652,Health,0.9962176663795437,10,52615.07,Premium Discount + Account Review
+POL006519,Term Life,0.995697414208462,8,18489.23,Claims Review + Goodwill Credit
+POL004897,Term Life,0.995090855175411,8,6141.39,Claims Review + Goodwill Credit
+POL007305,Property,0.9949528979232483,10,64461.19,Claims Review + Goodwill Credit
+POL002499,Health,0.9946231212185535,15,15076.13,Claims Review + Goodwill Credit
+POL000199,Auto,0.9945491965008576,7,74734.02,Billing Team Escalation
+POL003752,Term Life,0.9944443162193563,12,14781.93,Claims Review + Goodwill Credit
+POL006177,Term Life,0.9942603430899865,14,58127.85,Claims Review + Goodwill Credit
+POL006618,Health,0.9939479174363871,7,65213.59,Billing Team Escalation
+POL000444,Auto,0.9939430863579135,15,64928.24,Claims Review + Goodwill Credit
+POL007637,Health,0.9938259148518723,10,10005.53,Claims Review + Goodwill Credit
+POL003970,Property,0.9937910875894456,10,41207.15,Billing Team Escalation
+POL002375,Term Life,0.9936743757180441,14,56207.56,Claims Review + Goodwill Credit
+POL006851,Property,0.993587781736788,10,63390.79,Claims Review + Goodwill Credit
+POL000306,Health,0.9935841074553645,13,9121.48,Claims Review + Goodwill Credit
+POL007449,Term Life,0.9934759952987208,10,69567.39,Claims Review + Goodwill Credit
+POL007419,Auto,0.9933502687651551,10,54091.71,Claims Review + Goodwill Credit
+POL006340,Term Life,0.9929628949077647,10,58723.52,Claims Review + Goodwill Credit
+POL004189,Auto,0.9929186677990813,12,69262.76,Claims Review + Goodwill Credit
+POL000319,Term Life,0.9928292564910992,12,48892.53,Billing Team Escalation
+POL003965,Auto,0.9925082348518652,9,64985.46,Billing Team Escalation
+POL004313,Auto,0.9924799114904361,10,69345.59,Claims Review + Goodwill Credit
+POL002363,Health,0.9924683087188423,9,43932.27,Billing Team Escalation
+POL007015,Auto,0.9924632738535595,9,18344.83,Premium Discount + Account Review
+POL001296,Term Life,0.9923173368165598,10,25751.31,Claims Review + Goodwill Credit
+POL003500,Term Life,0.9923107245625262,10,53851.68,Premium Discount + Account Review
+POL006785,Auto,0.9922501589755476,12,36142.56,Claims Review + Goodwill Credit
+POL004446,Term Life,0.9922138851622941,11,22753.64,Claims Review + Goodwill Credit
+POL003872,Term Life,0.9919900926738816,8,49607.49,Premium Discount + Account Review
+POL001257,Health,0.9917962614332341,10,39727.97,Claims Review + Goodwill Credit
+POL004752,Health,0.9917477697567358,10,5760.6,Claims Review + Goodwill Credit
+POL000464,Property,0.9916588340588158,10,43546.83,Billing Team Escalation
+POL006906,Term Life,0.9916556734337205,12,21456.36,Billing Team Escalation
+POL007567,Term Life,0.9915809728656042,10,77369.02,Claims Review + Goodwill Credit
+POL000806,Property,0.9915127259161743,13,14227.83,Claims Review + Goodwill Credit
+POL007694,Property,0.9914501484299326,11,71505.35,Billing Team Escalation
+POL003782,Term Life,0.9914156658585264,10,46031.88,Billing Team Escalation
+POL003848,Auto,0.9913855898957228,9,8054.38,Billing Team Escalation
+POL000521,Term Life,0.9912627746888364,10,68031.96,Claims Review + Goodwill Credit
+POL000927,Health,0.991254963474036,10,66149.01,Claims Review + Goodwill Credit
+POL005525,Term Life,0.9910224405151001,13,13811.04,Claims Review + Goodwill Credit
+POL003838,Property,0.990949365325837,9,27243.6,Premium Discount + Account Review
+POL003715,Term Life,0.9908939601152733,10,20883.61,Claims Review + Goodwill Credit
+POL001551,Health,0.9906163542598535,9,59639.45,Billing Team Escalation
+POL006371,Term Life,0.9906128055071703,12,46746.62,Billing Team Escalation
+POL004427,Term Life,0.9905733753322622,10,41476.62,Claims Review + Goodwill Credit
+POL001164,Term Life,0.9901186567577512,9,40985.85,Claims Review + Goodwill Credit
+POL000858,Health,0.9900604625645059,9,5650.4,Billing Team Escalation
+POL001521,Property,0.9899961169558766,10,15354.23,Billing Team Escalation
+POL000761,Term Life,0.989949476142734,12,51440.2,Claims Review + Goodwill Credit
+POL004195,Term Life,0.9897535704817891,10,43906.15,Claims Review + Goodwill Credit
+POL004104,Term Life,0.9894931072650309,9,62579.2,Billing Team Escalation
+POL007452,Term Life,0.9894050878341454,9,7310.83,Billing Team Escalation
+POL004739,Health,0.9894042346303412,10,70211.97,Claims Review + Goodwill Credit
+POL002548,Health,0.9893231007794789,8,9696.77,Billing Team Escalation
+POL001781,Property,0.9892830577907241,14,72074.25,Claims Review + Goodwill Credit
+POL000187,Health,0.9892107106570057,9,61150.47,Billing Team Escalation
+POL002169,Term Life,0.989192857190733,9,36072.05,Claims Review + Goodwill Credit
+POL006992,Term Life,0.9891600036643311,8,40326.76,Claims Review + Goodwill Credit
+POL004132,Health,0.9891356064548691,9,70431.44,Claims Review + Goodwill Credit
+POL002604,Term Life,0.9890573900386878,7,23538.83,Premium Discount + Account Review
+POL002559,Health,0.9890327398945262,10,38649.79,Claims Review + Goodwill Credit
+POL006380,Health,0.9885119566413549,10,71788.11,Billing Team Escalation
+POL002544,Term Life,0.9884651717219569,11,38210.43,Claims Review + Goodwill Credit
+POL002152,Auto,0.9884155355891184,10,36954.86,Billing Team Escalation
+POL006580,Auto,0.9883374601355355,11,42378.34,Billing Team Escalation
+POL001394,Term Life,0.9882312516428388,9,44934.61,Billing Team Escalation
+POL001424,Property,0.9881793180916314,11,57847.53,Claims Review + Goodwill Credit
+POL004659,Auto,0.987994629232757,11,61694.12,Claims Review + Goodwill Credit
+POL004267,Term Life,0.9878515255682385,10,29550.6,Claims Review + Goodwill Credit
+POL002205,Property,0.9878503222709741,11,24071.62,Claims Review + Goodwill Credit
+POL004907,Term Life,0.9875002798716336,8,70827.41,Billing Team Escalation
+POL000289,Health,0.9873622186244313,10,34992.88,Billing Team Escalation
+POL002904,Health,0.9872944428807798,10,43019.45,Claims Review + Goodwill Credit
+POL002471,Property,0.987262953286453,8,37698.9,Claims Review + Goodwill Credit
+POL002908,Term Life,0.9872150728702971,10,49936.7,Claims Review + Goodwill Credit
+POL006282,Auto,0.9872025508043762,9,5005.91,Billing Team Escalation
+POL001913,Term Life,0.987152872632909,9,29547.49,Billing Team Escalation
+POL000063,Term Life,0.9870584743224943,9,17082.93,Claims Review + Goodwill Credit
+POL002978,Auto,0.9869642592618194,11,6411.38,Billing Team Escalation
+POL006251,Term Life,0.9869157081717569,10,27289.11,Claims Review + Goodwill Credit
+POL005162,Term Life,0.9868973139118044,11,37256.7,Claims Review + Goodwill Credit
+POL005177,Term Life,0.9867543263958793,8,49203.12,Billing Team Escalation
+POL003364,Property,0.9866528515966932,9,6586.74,Claims Review + Goodwill Credit
+POL002590,Auto,0.986463111185922,10,69291.84,Claims Review + Goodwill Credit
+POL003077,Term Life,0.9864258802732265,8,72521.18,Billing Team Escalation
+POL004551,Term Life,0.986398998517994,9,27853.07,Claims Review + Goodwill Credit
+POL000263,Health,0.9863779035258571,11,26042.06,Claims Review + Goodwill Credit
+POL005129,Auto,0.9861511899187336,9,6388.53,Billing Team Escalation
+POL003674,Health,0.9861170473609029,8,43924.98,Premium Discount + Account Review
+POL007023,Auto,0.9860180965235722,10,17673.74,Claims Review + Goodwill Credit
+POL007798,Term Life,0.9859382770478312,10,32536.59,Claims Review + Goodwill Credit
+POL004468,Property,0.9858953120315203,12,10698.53,Billing Team Escalation
+POL004346,Auto,0.9858890852668749,12,12450.41,Claims Review + Goodwill Credit
+POL004327,Property,0.9858473852088091,7,47521.35,Billing Team Escalation
+POL001419,Property,0.9858426310474047,10,14092.88,Claims Review + Goodwill Credit
+POL002995,Auto,0.9856861756559728,10,57188.53,Claims Review + Goodwill Credit
+POL003416,Term Life,0.9856764771901965,10,10293.65,Claims Review + Goodwill Credit
+POL004956,Term Life,0.9854258917405916,11,32540.65,Claims Review + Goodwill Credit
+POL001255,Health,0.984929274484704,7,59437.17,Billing Team Escalation
+POL007082,Health,0.9848448071452809,11,71025.15,Claims Review + Goodwill Credit
+POL004616,Auto,0.9848188517699026,10,45189.3,Claims Review + Goodwill Credit
+POL004733,Property,0.9847883431045515,11,47466.64,Claims Review + Goodwill Credit
+POL004403,Term Life,0.9846744554437182,8,64166.4,Claims Review + Goodwill Credit
+POL004812,Term Life,0.984660727733119,7,39647.45,Claims Review + Goodwill Credit
+POL002177,Health,0.9844903421601906,10,54939.29,Billing Team Escalation
+POL002793,Term Life,0.9843231436708282,10,33393.72,Billing Team Escalation
+POL001637,Term Life,0.9842141282572802,8,36713.86,Billing Team Escalation
+POL002267,Auto,0.9841847000201566,11,54983.75,Billing Team Escalation
+POL003648,Health,0.9839987330133398,9,24371.56,Billing Team Escalation
+POL006195,Term Life,0.9837371936451716,10,9292.73,Claims Review + Goodwill Credit
+POL003639,Term Life,0.9833762629187354,13,27095.28,Billing Team Escalation
+POL003288,Property,0.9833355194991918,10,22998.01,Claims Review + Goodwill Credit
+POL005955,Health,0.9832437954317226,9,13086.07,Claims Review + Goodwill Credit
+POL005888,Auto,0.9832321870581149,12,24132.95,Billing Team Escalation
+POL004192,Health,0.9831797960689023,8,71635.52,Claims Review + Goodwill Credit
+POL002898,Health,0.9831790048746297,11,17674.12,Billing Team Escalation
+POL005147,Auto,0.9829809951154492,10,42758.29,Claims Review + Goodwill Credit
+POL000188,Health,0.9829732925394581,11,7435.26,Claims Review + Goodwill Credit
+POL000145,Term Life,0.9829581280017418,7,46733.93,Billing Team Escalation
+POL004816,Property,0.9829472946924017,11,18419.99,Billing Team Escalation
+POL007664,Term Life,0.9828630856703061,11,23309.68,Claims Review + Goodwill Credit
+POL000059,Term Life,0.982702424655503,9,8889.74,Billing Team Escalation
+POL001135,Term Life,0.9826833535522248,12,75341.38,Claims Review + Goodwill Credit
+POL001878,Term Life,0.9826659886307265,7,50996.18,Premium Discount + Account Review
+POL006283,Auto,0.98244711905483,9,16064.91,Billing Team Escalation
+POL002484,Health,0.9823880195416224,10,61915.94,Billing Team Escalation
+POL000453,Property,0.9821427469372436,8,66839.92,Claims Review + Goodwill Credit
+POL003796,Health,0.9821117663295215,10,44752.91,Billing Team Escalation
+POL007760,Health,0.9820081650926111,12,32810.89,Billing Team Escalation
+POL000418,Health,0.9819992245595341,9,29552.45,Billing Team Escalation
+POL004021,Term Life,0.9818641781547319,9,9948.99,Claims Review + Goodwill Credit
+POL003676,Term Life,0.9818007452021233,9,18583.05,Claims Review + Goodwill Credit
+POL005029,Term Life,0.9814747880786437,10,61610.93,Claims Review + Goodwill Credit
+POL004452,Auto,0.9814496842313606,9,8432.51,Billing Team Escalation
+POL004335,Term Life,0.9812004019223031,12,17763.49,Billing Team Escalation
+POL005140,Health,0.9811683770175905,9,28567.08,Claims Review + Goodwill Credit
+POL000705,Property,0.9811102682714669,8,24249.11,Billing Team Escalation
+POL002421,Term Life,0.9809638373120393,7,55085.36,Billing Team Escalation
+POL005933,Property,0.9807670963046449,9,9740.51,Claims Review + Goodwill Credit
+POL004401,Health,0.9807510448125165,9,46841.2,Billing Team Escalation
+POL005405,Auto,0.980711184020282,9,31681.59,Premium Discount + Account Review
+POL007680,Property,0.980682028090943,8,42525.51,Billing Team Escalation
+POL006551,Health,0.9802767156706591,9,36284.46,Billing Team Escalation
+POL002328,Health,0.9802352562414687,7,52993.9,Billing Team Escalation
+POL003952,Property,0.9802325630068267,10,45767.83,Claims Review + Goodwill Credit
+POL006391,Health,0.9798739412496035,11,60710.16,Claims Review + Goodwill Credit
+POL002797,Health,0.9798016458585924,8,52874.23,Billing Team Escalation
+POL005216,Health,0.9796942167915749,11,61290.76,Claims Review + Goodwill Credit
+POL001214,Health,0.9796589187396765,11,35538.86,Claims Review + Goodwill Credit
+POL002851,Term Life,0.9796097292394988,8,12495.96,Premium Discount + Account Review
+POL007411,Health,0.979445127533705,10,15879.27,Claims Review + Goodwill Credit
+POL006767,Term Life,0.9792573953313601,9,13265.27,Claims Review + Goodwill Credit
+POL005379,Term Life,0.979221126615333,9,20929.49,Billing Team Escalation
+POL006657,Term Life,0.9791580324733665,12,38309.39,Premium Discount + Account Review
+POL005763,Term Life,0.9791074131231807,9,77600.81,Premium Discount + Account Review
+POL001733,Health,0.9791045539118676,12,9630.82,Billing Team Escalation
+POL004827,Term Life,0.9790156516446747,9,46742.74,Claims Review + Goodwill Credit
+POL001372,Auto,0.9780865148696242,11,50185.06,Claims Review + Goodwill Credit
+POL006071,Term Life,0.9780459754724581,11,69600.16,Claims Review + Goodwill Credit
+POL005536,Term Life,0.9780172979122286,8,45527.02,Billing Team Escalation
+POL003997,Term Life,0.9778841627048568,11,14976.55,Billing Team Escalation
+POL006661,Health,0.9778426191499655,12,33071.95,Claims Review + Goodwill Credit
+POL003158,Auto,0.9776518509678398,11,60293.68,Billing Team Escalation
+POL003127,Term Life,0.9771768518693349,10,48033.9,Claims Review + Goodwill Credit
+POL001177,Term Life,0.9770831648356709,10,78388.88,Claims Review + Goodwill Credit
+POL005669,Auto,0.9770308574575345,9,38607.9,Claims Review + Goodwill Credit
+POL004728,Auto,0.9769527479867659,8,56608.35,Claims Review + Goodwill Credit
+POL003339,Health,0.976864785909916,14,78335.11,Claims Review + Goodwill Credit
+POL004690,Term Life,0.9765148459423088,9,29408.49,Premium Discount + Account Review
+POL004714,Health,0.976269621263684,10,10463.67,Premium Discount + Account Review
+POL000184,Term Life,0.9761918788118114,8,32609.99,Billing Team Escalation
+POL003789,Property,0.9760556397259595,12,71505.9,Billing Team Escalation
+POL004191,Auto,0.976021884122799,9,18867.07,Claims Review + Goodwill Credit
+POL005425,Health,0.9759640049738832,12,62213.44,Claims Review + Goodwill Credit
+POL002061,Health,0.9759411251727489,8,40846.8,Premium Discount + Account Review
+POL003866,Health,0.9758127491890384,10,32339.92,Premium Discount + Account Review
+POL006669,Term Life,0.9757874484727269,9,60610.35,Claims Review + Goodwill Credit
+POL000411,Property,0.9757676336974864,7,46271.49,Claims Review + Goodwill Credit
+POL007176,Property,0.9753519985496437,8,70501.63,Claims Review + Goodwill Credit
+POL004378,Term Life,0.9751942271461136,7,41677.62,Claims Review + Goodwill Credit
+POL002423,Health,0.974653195149218,7,21308.83,Billing Team Escalation
+POL001385,Term Life,0.9745968324083156,9,75280.77,Claims Review + Goodwill Credit
+POL004097,Term Life,0.9744131208139598,10,33091.15,Premium Discount + Account Review
+POL001311,Auto,0.9743714933019696,8,20863.93,Claims Review + Goodwill Credit
+POL003078,Term Life,0.9743212919022078,12,37916.13,Claims Review + Goodwill Credit
+POL005751,Auto,0.9743180930142765,9,31797.67,Claims Review + Goodwill Credit
+POL002476,Term Life,0.974307611821867,8,56053.33,Billing Team Escalation
+POL002646,Property,0.9740873868204973,10,13140.67,Claims Review + Goodwill Credit
+POL006492,Health,0.9738879861145273,7,72248.91,Claims Review + Goodwill Credit
+POL005396,Term Life,0.9736974153620096,9,23400.46,Premium Discount + Account Review
+POL001739,Health,0.9735482137932231,7,7796.46,Billing Team Escalation
+POL001737,Term Life,0.9733856523454694,9,16847.03,Premium Discount + Account Review
+POL004550,Property,0.9732670137988804,8,28541.58,Billing Team Escalation
+POL003079,Property,0.9731111674825671,9,42872.94,Claims Review + Goodwill Credit
+POL006791,Term Life,0.9728950239829736,6,49686.17,Billing Team Escalation
+POL001928,Health,0.972879043690948,9,44555.76,Premium Discount + Account Review
+POL003742,Auto,0.9727651856614811,9,6303.53,Premium Discount + Account Review
+POL006434,Auto,0.9727325555657937,9,31237.47,Premium Discount + Account Review
+POL002697,Term Life,0.9723985982983269,11,39716.69,Billing Team Escalation
+POL007034,Health,0.9719729426955453,9,12387.69,Premium Discount + Account Review
+POL007314,Term Life,0.9716937718132128,14,66579.17,Billing Team Escalation
+POL001153,Health,0.9713314313626737,13,12407.53,Claims Review + Goodwill Credit
+POL002384,Term Life,0.9713101579119231,10,28475.93,Billing Team Escalation
+POL000610,Term Life,0.9712669342004624,8,8036.64,Billing Team Escalation
+POL006575,Auto,0.9709989047813432,7,46269.67,Claims Review + Goodwill Credit
+POL004520,Auto,0.9709835999470781,7,10773.31,Premium Discount + Account Review
+POL001811,Auto,0.9709279912584667,10,6781.88,Claims Review + Goodwill Credit
+POL003665,Health,0.970852327813291,7,51724.67,Premium Discount + Account Review
+POL006756,Auto,0.9708329288161671,10,31218.77,Claims Review + Goodwill Credit
+POL007888,Term Life,0.9707576156666202,6,50271.64,Billing Team Escalation
+POL001234,Health,0.9705666308096385,11,10893.46,Claims Review + Goodwill Credit
+POL003719,Term Life,0.9703905103903131,9,61984.06,Claims Review + Goodwill Credit
+POL000213,Term Life,0.9702946137489099,9,31551.78,Claims Review + Goodwill Credit
+POL001491,Term Life,0.9699554284542282,8,36771.95,Claims Review + Goodwill Credit
+POL002820,Property,0.9698726360832068,10,73053.58,Claims Review + Goodwill Credit
+POL001261,Auto,0.9697173674773528,11,8290.46,Premium Discount + Account Review
+POL005061,Property,0.9695257006082285,9,20137.27,Claims Review + Goodwill Credit
+POL001988,Health,0.9694606621916618,8,75299.32,Billing Team Escalation
+POL007222,Term Life,0.9687037545851287,11,15899.37,Premium Discount + Account Review
+POL003149,Health,0.9685407272844119,9,45082.31,Billing Team Escalation
+POL007893,Health,0.9684784067896496,9,28702.03,Claims Review + Goodwill Credit
+POL005077,Term Life,0.968130340306648,9,50269.64,Billing Team Escalation
+POL005877,Health,0.967996955923699,8,63726.93,Claims Review + Goodwill Credit
+POL007425,Term Life,0.9674655021676742,13,24858.36,Premium Discount + Account Review
+POL000934,Term Life,0.9674257748658953,12,74082.92,Billing Team Escalation
+POL005897,Term Life,0.9671658097067014,10,64494.78,Billing Team Escalation
+POL004095,Health,0.9670771995441735,7,63622.49,Billing Team Escalation
+POL006329,Term Life,0.9669847037365126,7,16145.72,Billing Team Escalation
+POL004569,Auto,0.9663521393913773,10,62129.68,Premium Discount + Account Review
+POL007685,Auto,0.9663119695902396,9,61039.8,Premium Discount + Account Review
+POL002605,Health,0.966102885442287,7,17989.41,Claims Review + Goodwill Credit
+POL006830,Property,0.9657960763885727,11,29703.91,Claims Review + Goodwill Credit
+POL001936,Term Life,0.9656661355691559,10,8873.24,Claims Review + Goodwill Credit
+POL003090,Health,0.9655544723638047,9,50980.17,Billing Team Escalation
+POL007974,Health,0.9654043521344947,12,5638.84,Billing Team Escalation
+POL007732,Term Life,0.9653820116001318,7,69721.42,Premium Discount + Account Review
+POL003813,Health,0.9649404754153323,8,76768.03,Claims Review + Goodwill Credit
+POL000040,Term Life,0.9648290314274381,6,14731.55,Billing Team Escalation
+POL007401,Health,0.9647501156769339,8,44977.52,Billing Team Escalation
+POL004692,Term Life,0.9643899744311588,8,65988.14,Claims Review + Goodwill Credit
+POL004626,Term Life,0.9643867294452143,8,22052.72,Claims Review + Goodwill Credit
+POL005292,Term Life,0.9643426946098149,10,11547.3,Billing Team Escalation
+POL006792,Term Life,0.9641418848771813,7,69232.01,Premium Discount + Account Review
+POL006687,Term Life,0.9633954197411924,12,15987.68,Claims Review + Goodwill Credit
+POL007869,Term Life,0.9632861540708497,6,34854.69,Claims Review + Goodwill Credit
+POL003211,Health,0.9631884506223128,9,49542.59,Claims Review + Goodwill Credit
+POL003515,Property,0.9626116316730141,10,19006.05,Claims Review + Goodwill Credit
+POL001763,Health,0.962592205208764,8,51576.02,Claims Review + Goodwill Credit
+POL000382,Health,0.9625731610906314,9,10424.66,Claims Review + Goodwill Credit
+POL004091,Term Life,0.9620658132382128,10,42047.72,Claims Review + Goodwill Credit
+POL006716,Term Life,0.9620513651757359,11,18466.65,Billing Team Escalation
+POL007725,Term Life,0.9619978927743575,9,55152.15,Claims Review + Goodwill Credit
+POL007071,Health,0.9618910645624296,11,51462.23,Billing Team Escalation
+POL000744,Term Life,0.9615568027878283,8,26200.31,Billing Team Escalation
+POL007624,Health,0.9614271317608507,8,6949.02,Billing Team Escalation
+POL001937,Auto,0.9613784816580077,10,79893.97,Claims Review + Goodwill Credit
+POL006995,Health,0.9612730234261141,6,55385.97,Claims Review + Goodwill Credit
+POL007014,Health,0.9612577862522687,12,45188.94,Billing Team Escalation
+POL000369,Term Life,0.9611294993420163,7,43002.59,Billing Team Escalation
+POL004345,Term Life,0.960964024004444,8,44395.14,Claims Review + Goodwill Credit
+POL004477,Term Life,0.9608977083611928,11,58523.16,Claims Review + Goodwill Credit
+POL002714,Term Life,0.9608780380687653,8,67209.12,Billing Team Escalation
+POL003913,Property,0.9600178337271867,8,31089.01,Billing Team Escalation
+POL007077,Health,0.9593230880907881,8,8538.23,Billing Team Escalation
+POL005319,Health,0.9592303921126658,7,24922.47,Billing Team Escalation
+POL005883,Property,0.9591005545767767,7,40005.83,Claims Review + Goodwill Credit
+POL007823,Auto,0.9587926524684477,10,23111.35,Premium Discount + Account Review
+POL004208,Term Life,0.9581900891988081,8,25978.14,Claims Review + Goodwill Credit
+POL000665,Term Life,0.9580703749706516,7,21790.08,Billing Team Escalation
+POL005534,Term Life,0.9579736484260105,10,8138.1,Billing Team Escalation
+POL002394,Auto,0.9579186396643072,10,41879.92,Billing Team Escalation
+POL000313,Property,0.957187592577324,11,12019.64,Billing Team Escalation
+POL000667,Term Life,0.9571509254961837,6,50433.28,Claims Review + Goodwill Credit
+POL007007,Term Life,0.9564597020612909,12,25190.4,Claims Review + Goodwill Credit
+POL002110,Term Life,0.9563936855284129,10,48142.43,Billing Team Escalation
+POL007894,Health,0.956167177586875,12,31301.91,Billing Team Escalation
+POL006237,Health,0.9559507768492639,12,41202.67,Premium Discount + Account Review
+POL007240,Auto,0.9558484892406529,9,55262.18,Claims Review + Goodwill Credit
+POL006506,Auto,0.9558363736041738,11,26533.4,Claims Review + Goodwill Credit
+POL003975,Property,0.9556479878873263,9,28404.2,Premium Discount + Account Review
+POL002003,Term Life,0.9556408005489934,9,78532.09,Claims Review + Goodwill Credit
+POL000146,Health,0.9555450866537746,8,60231.83,Claims Review + Goodwill Credit
+POL006933,Term Life,0.9555008877993949,12,15543.16,Premium Discount + Account Review
+POL005485,Property,0.9549570153380154,10,38922.53,Billing Team Escalation
+POL001070,Term Life,0.9548346553794302,11,68281.66,Billing Team Escalation
+POL003350,Term Life,0.9544172471570715,7,31804.99,Premium Discount + Account Review
+POL005952,Auto,0.9543834050479812,8,28363.67,Billing Team Escalation
+POL000574,Auto,0.9534337095834696,7,8406.69,Claims Review + Goodwill Credit
+POL000856,Term Life,0.9532391180380132,11,33884.13,Claims Review + Goodwill Credit
+POL007776,Term Life,0.9530264132813973,10,45206.6,Premium Discount + Account Review
+POL005576,Health,0.9529199000168396,11,70464.94,Billing Team Escalation
+POL002859,Term Life,0.9527963629431953,10,33576.1,Premium Discount + Account Review
+POL000430,Term Life,0.952359335913408,11,51457.15,Claims Review + Goodwill Credit
+POL004561,Term Life,0.9522070957983209,9,32282.54,Claims Review + Goodwill Credit
+POL004649,Term Life,0.9521559344412854,8,36391.37,Billing Team Escalation
+POL006529,Auto,0.9521507806882611,9,54015.64,Premium Discount + Account Review
+POL004344,Health,0.9514521077220763,7,14292.74,Claims Review + Goodwill Credit
+POL007086,Health,0.951396652287543,9,5209.64,Premium Discount + Account Review
+POL003703,Auto,0.9511063824790286,8,30281.43,Premium Discount + Account Review
+POL001701,Health,0.9510742797536672,8,21509.51,Billing Team Escalation
+POL000167,Term Life,0.9509256580866712,10,16731.15,Billing Team Escalation
+POL001512,Property,0.9507430298022894,9,11771.74,Premium Discount + Account Review
+POL001612,Health,0.9506153132592587,8,26825.27,Premium Discount + Account Review
+POL002863,Health,0.9505228127831794,10,45933.34,Claims Review + Goodwill Credit
+POL002151,Term Life,0.9504120372691871,10,48097.52,Billing Team Escalation
+POL000396,Auto,0.9504112307468584,9,18263.18,Premium Discount + Account Review
+POL000138,Term Life,0.950223611953378,13,54174.51,Claims Review + Goodwill Credit
+POL007716,Term Life,0.9501858245386713,10,71127.99,Claims Review + Goodwill Credit
+POL003736,Health,0.9500705573776129,8,47107.07,Billing Team Escalation
+POL000728,Term Life,0.9497744418149696,13,37393.17,Premium Discount + Account Review
+POL001896,Health,0.9491227225126051,10,48314.05,Billing Team Escalation
+POL006049,Property,0.9489999303215523,8,8095.47,Claims Review + Goodwill Credit
+POL006622,Health,0.9488569489793693,10,69706.45,Premium Discount + Account Review
+POL005657,Auto,0.9487380925346351,8,64495.68,Premium Discount + Account Review
+POL000017,Health,0.9486612303018764,12,52871.2,Billing Team Escalation
+POL007464,Term Life,0.9486079832699953,10,46704.25,Billing Team Escalation
+POL006484,Term Life,0.9475735348626043,11,42545.31,Claims Review + Goodwill Credit
+POL006839,Property,0.9473895069022755,11,21813.33,Billing Team Escalation
+POL000299,Term Life,0.9473499764025177,11,36854.28,Billing Team Escalation
+POL007548,Auto,0.9472301654267095,9,66838.36,Billing Team Escalation
+POL001751,Term Life,0.9471502092723585,9,65234.73,Billing Team Escalation
+POL005235,Term Life,0.9470510166059087,9,52715.51,Premium Discount + Account Review
+POL000162,Health,0.9468917583055377,9,78009.57,Claims Review + Goodwill Credit
+POL004674,Health,0.9468156131275847,11,7014.47,Billing Team Escalation
+POL001316,Health,0.9468145354389732,6,70034.58,Premium Discount + Account Review
+POL002337,Term Life,0.9466574840301927,6,30234.68,Billing Team Escalation
+POL005661,Term Life,0.9466525236209478,11,35327.04,Claims Review + Goodwill Credit
+POL007697,Health,0.9464282493230393,7,24468.14,Claims Review + Goodwill Credit
+POL003988,Term Life,0.9463814390697192,10,9271.76,Premium Discount + Account Review
+POL005460,Auto,0.9462417546040103,8,22217.88,Claims Review + Goodwill Credit
+POL004708,Auto,0.9456784903858699,9,58569.1,Premium Discount + Account Review
+POL003370,Term Life,0.9455359210128833,9,48915.08,Claims Review + Goodwill Credit
+POL002173,Auto,0.9448718843005818,8,57222.87,Billing Team Escalation
+POL000222,Term Life,0.944828474230657,9,7025.21,Premium Discount + Account Review
+POL005681,Health,0.944471306873054,6,40762.61,Premium Discount + Account Review
+POL002212,Term Life,0.944460517954884,8,62809.25,Premium Discount + Account Review
+POL005037,Property,0.9442362381139001,8,42289.57,Claims Review + Goodwill Credit
+POL003091,Property,0.9434001727530947,10,15100.35,Billing Team Escalation
+POL007493,Health,0.9433176304277943,9,12328.39,Premium Discount + Account Review
+POL004873,Term Life,0.9429914654357261,10,23863.12,Claims Review + Goodwill Credit
+POL006118,Term Life,0.9429813984425779,6,48225.23,Billing Team Escalation
+POL000398,Auto,0.9427440529766289,10,14440.42,Claims Review + Goodwill Credit
+POL004575,Term Life,0.9426385846500763,8,42229.32,Billing Team Escalation
+POL002415,Property,0.9423758553681886,10,70757.67,Billing Team Escalation
+POL000450,Auto,0.9420569121653612,7,23063.76,Billing Team Escalation
+POL000066,Term Life,0.9415775898656538,10,24214.27,Claims Review + Goodwill Credit
+POL004490,Term Life,0.9415669241242577,7,26621.55,Billing Team Escalation
+POL003141,Property,0.9415250446657499,9,28255.06,Claims Review + Goodwill Credit
+POL004285,Health,0.9407962033684085,9,36867.62,Claims Review + Goodwill Credit
+POL002429,Auto,0.9406496372034855,6,77627.01,Claims Review + Goodwill Credit
+POL001228,Property,0.9405377846314251,7,75637.35,Claims Review + Goodwill Credit
+POL004331,Term Life,0.9403761480810544,7,58035.48,Claims Review + Goodwill Credit
+POL002782,Property,0.9398725055900328,12,51146.51,Claims Review + Goodwill Credit
+POL007316,Term Life,0.9398359878775744,6,56783.51,Premium Discount + Account Review
+POL003050,Term Life,0.939498960190257,10,70610.17,Claims Review + Goodwill Credit
+POL001175,Health,0.9394835421297627,10,37485.79,Premium Discount + Account Review
+POL000997,Term Life,0.9394564781841755,9,45391.27,Claims Review + Goodwill Credit
+POL002269,Health,0.9393492576231882,9,22773.32,Claims Review + Goodwill Credit
+POL003712,Auto,0.9391088123720138,8,43289.57,Claims Review + Goodwill Credit
+POL000656,Term Life,0.9388682172308326,7,58634.94,Claims Review + Goodwill Credit
+POL006346,Term Life,0.9386470514676135,9,9144.19,Claims Review + Goodwill Credit
+POL000157,Auto,0.9384275259176941,11,67462.17,Billing Team Escalation
+POL005759,Term Life,0.9381334810430595,10,44773.91,Claims Review + Goodwill Credit
+POL005788,Property,0.9378999467754106,9,42045.76,Claims Review + Goodwill Credit
+POL005837,Health,0.9376390093607816,8,22933.39,Claims Review + Goodwill Credit
+POL003390,Term Life,0.9375816132598674,9,34661.49,Premium Discount + Account Review
+POL002599,Term Life,0.9375428101253354,7,63168.23,Premium Discount + Account Review
+POL001892,Auto,0.9372076560539553,10,13980.24,Billing Team Escalation
+POL002232,Property,0.9370149881876289,9,76422.88,Premium Discount + Account Review
+POL007526,Health,0.9368086064946265,6,62907.44,Claims Review + Goodwill Credit
+POL004813,Health,0.9363675338791982,9,12081.38,Billing Team Escalation
+POL003921,Health,0.9362795893651026,6,9255.86,Premium Discount + Account Review
+POL003910,Term Life,0.9358693859017982,10,25649.18,Claims Review + Goodwill Credit
+POL006401,Auto,0.9357888272001701,10,63271.62,Billing Team Escalation
+POL003441,Health,0.935704177681385,9,14525.02,Claims Review + Goodwill Credit
+POL000085,Term Life,0.935704177681385,9,48986.02,Claims Review + Goodwill Credit
+POL004077,Term Life,0.9354038469196998,8,67392.74,Billing Team Escalation
+POL006707,Health,0.935252397978957,7,71485.32,Billing Team Escalation
+POL004608,Property,0.9350871819975295,7,71873.69,Claims Review + Goodwill Credit
+POL002723,Health,0.9349965634676491,9,25007.69,Premium Discount + Account Review
+POL003582,Term Life,0.9349956991288543,12,47083.08,Claims Review + Goodwill Credit
+POL006655,Health,0.9346609401749659,11,21013.1,Claims Review + Goodwill Credit
+POL002175,Auto,0.9346028700588038,7,76474.43,Claims Review + Goodwill Credit
+POL000395,Property,0.9345926391037651,11,67471.34,Billing Team Escalation
+POL004130,Term Life,0.9344475357582707,8,43324.9,Billing Team Escalation
+POL006744,Health,0.9341624281035108,6,43097.93,Claims Review + Goodwill Credit
+POL007200,Term Life,0.9339145071951774,9,60768.54,Billing Team Escalation
+POL005046,Health,0.9334154853331481,7,55977.12,Billing Team Escalation
+POL005507,Term Life,0.9328212188077284,11,48585.74,Billing Team Escalation
+POL005790,Term Life,0.9325791194113795,10,71029.73,Claims Review + Goodwill Credit
+POL000585,Term Life,0.932577508489884,9,62898.77,Premium Discount + Account Review
+POL006465,Term Life,0.93248468830619,9,50564.77,Premium Discount + Account Review
+POL001063,Health,0.9324248561436153,10,68609.38,Billing Team Escalation
+POL005735,Health,0.9315743264307219,8,68026.02,Premium Discount + Account Review
+POL002343,Term Life,0.931144502060653,10,57316.09,Premium Discount + Account Review
+POL006072,Term Life,0.9310555424956053,9,52343.2,Claims Review + Goodwill Credit
+POL003348,Term Life,0.9309825784197364,6,63813.41,Billing Team Escalation
+POL002109,Property,0.9300261513012769,8,55631.69,Billing Team Escalation
+POL002623,Property,0.9298920292459619,10,45080.95,Billing Team Escalation
+POL003819,Health,0.9297524913903852,9,25657.06,Premium Discount + Account Review
+POL002843,Property,0.9297481504671492,10,7898.2,Claims Review + Goodwill Credit
+POL001984,Term Life,0.929548596114594,7,22580.91,Premium Discount + Account Review
+POL003395,Property,0.9290713713754225,8,53402.63,Claims Review + Goodwill Credit
+POL006834,Property,0.9287828153377933,11,74533.38,Billing Team Escalation
+POL004763,Term Life,0.928106715533022,16,10278.36,Claims Review + Goodwill Credit
+POL002534,Auto,0.928064324733545,9,52759.59,Premium Discount + Account Review
+POL003302,Health,0.9271825853443078,8,39373.75,Claims Review + Goodwill Credit
+POL002712,Term Life,0.9270194803396961,9,37364.29,Premium Discount + Account Review
+POL005772,Term Life,0.9270070278628192,8,18880.26,Premium Discount + Account Review
+POL007149,Health,0.9269422194661683,9,73370.05,Premium Discount + Account Review
+POL000174,Health,0.9267096264047189,9,31408.08,Premium Discount + Account Review
+POL004554,Health,0.9264333228047945,13,68828.67,Billing Team Escalation
+POL004884,Term Life,0.9263139078131581,7,53171.47,Billing Team Escalation
+POL006165,Health,0.9261098511006888,6,58824.58,Claims Review + Goodwill Credit
+POL003700,Health,0.9260981732986385,13,60165.2,Claims Review + Goodwill Credit
+POL007703,Term Life,0.9259009338969514,7,41694.05,Billing Team Escalation
+POL002162,Term Life,0.9257511501929956,7,10328.02,Claims Review + Goodwill Credit
+POL001439,Health,0.9255769993018877,10,62008.03,Premium Discount + Account Review
+POL006188,Term Life,0.9252687054244882,6,6156.32,Claims Review + Goodwill Credit
+POL003593,Health,0.9252672680674421,6,32093.96,Premium Discount + Account Review
+POL002929,Term Life,0.9252339150246894,8,8094.97,Premium Discount + Account Review
+POL006114,Term Life,0.9246756608458477,9,25653.56,Billing Team Escalation
+POL001232,Term Life,0.9240493981812143,10,47560.59,Premium Discount + Account Review
+POL000380,Term Life,0.9239723613539078,8,14254.35,Claims Review + Goodwill Credit
+POL005431,Term Life,0.9237194878008428,6,61843.16,Premium Discount + Account Review
+POL004880,Term Life,0.9235580417379055,9,31182.45,Claims Review + Goodwill Credit
+POL004558,Property,0.922757647252905,11,68185.65,Billing Team Escalation
+POL003055,Property,0.9220530636341082,6,28929.58,Premium Discount + Account Review
+POL000710,Auto,0.921798540682746,8,36893.29,Claims Review + Goodwill Credit
+POL005506,Health,0.9217788313261754,7,55284.29,Premium Discount + Account Review
+POL001816,Term Life,0.9216732432112608,12,65094.15,Claims Review + Goodwill Credit
+POL001076,Term Life,0.9214023222192018,12,46383.78,Premium Discount + Account Review
+POL004661,Health,0.9209833052860772,8,70369.45,Billing Team Escalation
+POL000096,Health,0.9204951780561351,9,74526.27,Claims Review + Goodwill Credit
+POL007373,Health,0.9203163892475704,11,65021.63,Billing Team Escalation
+POL004524,Auto,0.9202927672684965,7,24948.46,Billing Team Escalation
+POL003333,Term Life,0.9202207663765842,8,5685.63,Claims Review + Goodwill Credit
+POL002643,Health,0.9197096755584195,11,31019.2,Claims Review + Goodwill Credit
+POL007612,Property,0.9196818593479177,10,33822.97,Billing Team Escalation
+POL002872,Auto,0.9196191424043227,6,48993.02,Billing Team Escalation
+POL003128,Property,0.9193956319810638,9,63318.17,Billing Team Escalation
+POL005110,Property,0.9191807530524939,10,57193.06,Claims Review + Goodwill Credit
+POL006451,Property,0.919055709878919,15,48190.52,Claims Review + Goodwill Credit
+POL002401,Term Life,0.9190274586989866,13,10448.88,Billing Team Escalation
+POL001590,Health,0.9189886897741386,7,39665.98,Billing Team Escalation
+POL007277,Term Life,0.9187124471512857,7,59109.72,Claims Review + Goodwill Credit
+POL003908,Health,0.9185496271617297,8,58942.86,Claims Review + Goodwill Credit
+POL004182,Health,0.9183779594073634,10,13511.85,Claims Review + Goodwill Credit
+POL005886,Health,0.9183492746073694,6,75382.98,Premium Discount + Account Review
+POL003235,Term Life,0.9182473938558752,8,76042.89,Claims Review + Goodwill Credit
+POL003443,Property,0.9181993115246938,7,75566.53,Premium Discount + Account Review
+POL007370,Health,0.9179780243017782,8,25710.1,Premium Discount + Account Review
+POL005424,Health,0.9172884528223544,7,59516.92,Premium Discount + Account Review
+POL004266,Health,0.917076435442042,8,19825.26,Claims Review + Goodwill Credit
+POL001914,Health,0.9164416259565845,8,20271.17,Premium Discount + Account Review
+POL007478,Auto,0.9152402572443451,6,27277.72,Premium Discount + Account Review
+POL003658,Health,0.9152332930034278,10,35336.04,Claims Review + Goodwill Credit
+POL002111,Term Life,0.915171728267142,9,49379.13,Claims Review + Goodwill Credit
+POL000617,Term Life,0.9150435735729503,6,69378.76,Claims Review + Goodwill Credit
+POL001732,Health,0.915008183294585,7,65709.86,Billing Team Escalation
+POL001532,Auto,0.9149873420800734,11,49126.23,Premium Discount + Account Review
+POL007503,Term Life,0.9148894751897382,9,20091.29,Premium Discount + Account Review
+POL003947,Health,0.9145117336038934,7,10960.61,Billing Team Escalation
+POL003525,Term Life,0.9141074998585025,11,50405.58,Claims Review + Goodwill Credit
+POL001090,Property,0.9139296422429416,9,67875.59,Billing Team Escalation
+POL000759,Auto,0.9138994215338271,10,70004.27,Claims Review + Goodwill Credit
+POL001140,Auto,0.9134691739346583,8,21254.91,Billing Team Escalation
+POL007691,Auto,0.9133360251552355,7,37792.22,Billing Team Escalation
+POL002318,Health,0.9131953341924339,10,75109.35,Claims Review + Goodwill Credit
+POL001614,Term Life,0.9131447225032259,8,29287.99,Claims Review + Goodwill Credit
+POL006780,Term Life,0.913053333969451,6,17107.57,Premium Discount + Account Review
+POL000639,Term Life,0.9129106400900855,10,76893.54,Premium Discount + Account Review
+POL003766,Health,0.9125571591859933,9,16581.3,Claims Review + Goodwill Credit
+POL005698,Property,0.9123925808195035,6,20230.25,Claims Review + Goodwill Credit
+POL005294,Auto,0.9122072809105553,8,49500.69,Premium Discount + Account Review
+POL006261,Auto,0.9115674000263122,7,65399.42,Premium Discount + Account Review
+POL002848,Health,0.9111475729165087,11,43520.7,Billing Team Escalation
+POL007718,Health,0.9108605637857403,6,49806.02,Premium Discount + Account Review
+POL001441,Term Life,0.9106616838212495,7,79402.44,Premium Discount + Account Review
+POL000951,Health,0.9106209393934773,7,74375.53,Premium Discount + Account Review
+POL000432,Health,0.9101481922404863,8,77313.43,Billing Team Escalation
+POL004810,Term Life,0.9090350758573107,14,45415.89,Claims Review + Goodwill Credit
+POL002470,Term Life,0.9089653105701397,12,34608.58,Claims Review + Goodwill Credit
+POL004402,Term Life,0.9085322809331227,8,59728.01,Claims Review + Goodwill Credit
+POL000211,Health,0.9084615500892679,7,48454.65,Billing Team Escalation
+POL002806,Auto,0.9082494921359512,9,34315.61,Billing Team Escalation
+POL007418,Term Life,0.9079396480874043,6,79278.13,Premium Discount + Account Review
+POL007390,Health,0.9072058653339008,7,26251.61,Claims Review + Goodwill Credit
+POL006367,Term Life,0.9066097981047645,9,21886.54,Claims Review + Goodwill Credit
+POL004304,Auto,0.9057382808209739,13,37836.76,Billing Team Escalation
+POL007479,Health,0.9056053460942157,10,78798.1,Claims Review + Goodwill Credit
+POL003267,Health,0.905350643408013,7,13103.72,Premium Discount + Account Review
+POL004336,Health,0.9045552830579968,12,66226.5,Billing Team Escalation
+POL006109,Property,0.9043700912845947,12,15809.2,Billing Team Escalation
+POL005512,Auto,0.9038974074292321,7,29660.19,Billing Team Escalation
+POL000981,Auto,0.9030145198583581,10,70556.64,Premium Discount + Account Review
+POL001469,Auto,0.9019015123869782,8,45039.19,Claims Review + Goodwill Credit
+POL000676,Term Life,0.9015812964874724,6,24264.72,Claims Review + Goodwill Credit
+POL007335,Term Life,0.9013036174990129,6,15358.78,Premium Discount + Account Review
+POL001067,Term Life,0.9011642321592469,13,46402.71,Claims Review + Goodwill Credit
+POL005374,Health,0.900664591318375,11,31470.58,Billing Team Escalation
+POL006763,Term Life,0.9006124896467147,9,25211.21,Premium Discount + Account Review
+POL006515,Term Life,0.900389096388376,8,13569.65,Billing Team Escalation
+POL001944,Auto,0.8996268943160538,8,21633.14,Claims Review + Goodwill Credit
+POL003171,Term Life,0.8992509706840823,6,6151.35,Claims Review + Goodwill Credit
+POL005755,Term Life,0.898964338602602,9,44434.5,Premium Discount + Account Review
+POL004060,Term Life,0.8984520468157338,9,17026.89,Billing Team Escalation
+POL005030,Term Life,0.8980743896990759,9,5946.61,Claims Review + Goodwill Credit
+POL003099,Health,0.8977050081421334,12,48088.66,Claims Review + Goodwill Credit
+POL001161,Term Life,0.8975473907392768,8,21493.9,Premium Discount + Account Review
+POL000562,Term Life,0.8974513212937099,8,26262.61,Premium Discount + Account Review
+POL003322,Auto,0.8973029206395946,7,18951.69,Billing Team Escalation
+POL003341,Health,0.8966388523102994,6,28516.97,Billing Team Escalation
+POL001556,Health,0.8963360985150867,8,16046.19,Claims Review + Goodwill Credit
+POL006944,Health,0.8962850205625474,9,54881.8,Premium Discount + Account Review
+POL004726,Property,0.8962621676269054,7,27222.49,Claims Review + Goodwill Credit
+POL005954,Term Life,0.8960768137870745,12,79112.99,Claims Review + Goodwill Credit
+POL004366,Term Life,0.8957153233413352,9,8524.32,Premium Discount + Account Review
+POL004960,Health,0.8956665827663992,9,70115.02,Claims Review + Goodwill Credit
+POL006943,Term Life,0.8952842046597088,8,12031.65,Billing Team Escalation
+POL003901,Term Life,0.8950795622532249,11,10611.92,Premium Discount + Account Review
+POL000037,Term Life,0.8945679153282502,12,37419.48,Premium Discount + Account Review
+POL004307,Health,0.893957903783074,6,27259.95,Claims Review + Goodwill Credit
+POL000475,Property,0.8935886103621191,8,8482.14,Billing Team Escalation
+POL002089,Term Life,0.8935017596286216,8,7296.46,Premium Discount + Account Review
+POL003200,Health,0.8934642453180012,8,55105.41,Billing Team Escalation
+POL007945,Term Life,0.8930895061284883,7,10064.17,Claims Review + Goodwill Credit
+POL007230,Term Life,0.8927417003060187,6,33554.8,Premium Discount + Account Review
+POL007275,Auto,0.8924286789770628,9,23325.33,Premium Discount + Account Review
+POL005058,Health,0.8915162032489798,9,70528.52,Billing Team Escalation
+POL003448,Health,0.8911154184557237,8,61942.33,Premium Discount + Account Review
+POL002092,Term Life,0.8904785899509614,8,33266.13,Billing Team Escalation
+POL005853,Auto,0.8903258264867309,8,16990.81,Claims Review + Goodwill Credit
+POL005375,Auto,0.8902226567377037,11,33824.05,Claims Review + Goodwill Credit
+POL007041,Term Life,0.8897502947095512,8,34947.27,Billing Team Escalation
+POL001821,Term Life,0.8893809853337655,10,67493.38,Claims Review + Goodwill Credit
+POL002970,Term Life,0.8893040944462656,8,67284.66,Billing Team Escalation
+POL000390,Property,0.8882646825920805,7,78605.77,Claims Review + Goodwill Credit
+POL007398,Health,0.8880163884887584,9,77672.68,Premium Discount + Account Review
+POL007950,Property,0.8875890726511452,6,72686.4,Claims Review + Goodwill Credit
+POL006541,Auto,0.887508092689829,7,7273.35,Premium Discount + Account Review
+POL000553,Health,0.8874625124057931,7,74991.59,Premium Discount + Account Review
+POL007557,Health,0.8870170835222084,10,38575.04,Premium Discount + Account Review
+POL006113,Health,0.8864485902671625,7,32862.09,Premium Discount + Account Review
+POL003547,Health,0.8864041934370774,9,58599.28,Billing Team Escalation
+POL002621,Auto,0.8863094812169965,9,26571.94,Premium Discount + Account Review
+POL007258,Auto,0.8862926488797679,10,48001.44,Premium Discount + Account Review
+POL004031,Term Life,0.8861518982445251,7,15779.8,Billing Team Escalation
+POL004405,Health,0.8861350330780972,6,69547.61,Claims Review + Goodwill Credit
+POL003298,Term Life,0.8854365797158923,9,46842.14,Premium Discount + Account Review
+POL007780,Health,0.885257547721516,6,77717.55,Claims Review + Goodwill Credit
+POL007420,Term Life,0.8849767037251605,8,17205.48,Claims Review + Goodwill Credit
+POL000379,Term Life,0.8841634342088429,6,77075.24,Premium Discount + Account Review
+POL000555,Health,0.8841195528917841,11,36029.33,Premium Discount + Account Review
+POL005031,Health,0.884018956655937,10,77977.9,Claims Review + Goodwill Credit
+POL002905,Term Life,0.8838951629406088,9,31161.08,Claims Review + Goodwill Credit
+POL005600,Term Life,0.8837529469164612,7,45423.59,Premium Discount + Account Review
+POL002637,Auto,0.8836478602502296,6,60838.6,Premium Discount + Account Review
+POL007916,Health,0.882717804108996,9,40359.81,Billing Team Escalation
+POL001758,Term Life,0.8825078869808951,10,67790.16,Claims Review + Goodwill Credit
+POL004451,Health,0.8822911778038585,6,10706.57,Premium Discount + Account Review
+POL003820,Term Life,0.8822694401594172,8,55782.64,Billing Team Escalation
+POL005718,Term Life,0.8819525309108235,8,6229.14,Premium Discount + Account Review
+POL007983,Term Life,0.8817648519518936,10,34538.41,Claims Review + Goodwill Credit
+POL005986,Health,0.8813880187427915,9,43601.83,Claims Review + Goodwill Credit
+POL005299,Term Life,0.8811942005168901,8,15355.86,Premium Discount + Account Review
+POL002057,Health,0.8811096268324652,6,79932.47,Claims Review + Goodwill Credit
+POL006474,Auto,0.8800353618293909,7,41515.83,Premium Discount + Account Review
+POL003899,Auto,0.8795143854778669,6,28484.72,Claims Review + Goodwill Credit
+POL000065,Health,0.8790589320631329,6,27660.33,Premium Discount + Account Review
+POL001776,Health,0.8786869364548725,11,9924.91,Claims Review + Goodwill Credit
+POL004707,Term Life,0.8785231081124749,8,44939.13,Premium Discount + Account Review
+POL001540,Auto,0.8785118044327005,7,28077.73,Claims Review + Goodwill Credit
+POL002755,Term Life,0.8783519434952697,10,57218.62,Premium Discount + Account Review
+POL003514,Auto,0.8780161075244634,7,60544.73,Claims Review + Goodwill Credit
+POL003002,Term Life,0.8773565797079234,10,20555.89,Claims Review + Goodwill Credit
+POL002686,Term Life,0.8764154795626984,9,45660.19,Premium Discount + Account Review
+POL004543,Term Life,0.8758457512034875,9,43153.88,Billing Team Escalation
+POL001089,Term Life,0.8753937473604464,8,15751.09,Premium Discount + Account Review
+POL004220,Term Life,0.8751826255058869,10,39823.99,Claims Review + Goodwill Credit
+POL001863,Health,0.8747558446949666,10,54960.1,Billing Team Escalation
+POL001654,Term Life,0.8743207380317357,8,53298.73,Claims Review + Goodwill Credit
+POL007684,Term Life,0.8738062323477028,8,29160.01,Billing Team Escalation
+POL007444,Term Life,0.8735930470995336,9,33086.32,Claims Review + Goodwill Credit
+POL002901,Auto,0.8735533488787159,8,53087.09,Premium Discount + Account Review
+POL002508,Auto,0.873053158726566,6,25135.35,Billing Team Escalation
+POL005646,Term Life,0.8724370606344569,8,52183.86,Billing Team Escalation
+POL004731,Term Life,0.8719173474018566,7,52871.97,Premium Discount + Account Review
+POL005910,Health,0.871550527712293,9,49328.8,Premium Discount + Account Review
+POL002215,Term Life,0.8714879209108725,6,33556.1,Premium Discount + Account Review
+POL005831,Health,0.8712239079713897,7,40212.85,Premium Discount + Account Review
+POL004170,Term Life,0.8708546789712216,8,42583.28,Billing Team Escalation
+POL002584,Health,0.8707528359011896,9,39122.5,Claims Review + Goodwill Credit
+POL003696,Property,0.8702951451141812,10,50764.98,Billing Team Escalation
+POL002115,Term Life,0.86974835386147,14,36077.21,Claims Review + Goodwill Credit
+POL000870,Term Life,0.86910178119911,9,18536.62,Premium Discount + Account Review
+POL000021,Term Life,0.8690528373843338,8,70884.45,Billing Team Escalation
+POL007412,Term Life,0.8690478431697697,11,7068.57,Billing Team Escalation
+POL002689,Health,0.8681900498393036,9,54879.55,Premium Discount + Account Review
+POL007997,Health,0.8679629054904892,6,10115.96,Billing Team Escalation
+POL006772,Health,0.8673728707197572,9,48131.56,Premium Discount + Account Review
+POL000753,Term Life,0.8673299421065723,10,51033.82,Claims Review + Goodwill Credit
+POL007960,Auto,0.8668189788437657,10,28139.79,Claims Review + Goodwill Credit
+POL003569,Auto,0.8664073172463427,7,28463.87,Premium Discount + Account Review
+POL001160,Auto,0.865196856592521,10,53059.64,Claims Review + Goodwill Credit
+POL000022,Term Life,0.8649660469419559,8,46619.02,Billing Team Escalation
+POL006078,Health,0.8648431312142405,9,27905.88,Claims Review + Goodwill Credit
+POL003810,Health,0.8647846006764027,9,19475.39,Billing Team Escalation
+POL003203,Auto,0.8632431103589623,7,16937.18,Billing Team Escalation
+POL006490,Health,0.8629896958517016,9,45126.06,Billing Team Escalation
+POL003397,Auto,0.8618087350108354,6,41102.06,Claims Review + Goodwill Credit
+POL004849,Term Life,0.8615114552033077,6,10927.39,Claims Review + Goodwill Credit
+POL001684,Term Life,0.86109972445253,9,35896.89,Claims Review + Goodwill Credit
+POL000413,Health,0.8603352856607234,12,17058.44,Billing Team Escalation
+POL004032,Term Life,0.8594037580776629,9,20017.82,Billing Team Escalation
+POL004356,Term Life,0.8589039707495919,7,56637.46,Premium Discount + Account Review
+POL004280,Term Life,0.858523564296057,8,27917.14,Billing Team Escalation
+POL007824,Health,0.8580460813570931,8,77378.35,Premium Discount + Account Review
+POL001221,Term Life,0.857820479317538,7,19418.39,Claims Review + Goodwill Credit
+POL007131,Health,0.8577005716583992,9,8285.03,Billing Team Escalation
+POL001464,Property,0.8573415209227052,8,54522.96,Claims Review + Goodwill Credit
+POL007004,Term Life,0.8572117551531618,9,8173.37,Claims Review + Goodwill Credit
+POL002925,Property,0.856366041983813,10,70467.67,Premium Discount + Account Review
+POL007944,Term Life,0.8561743457685671,6,52800.21,Claims Review + Goodwill Credit
+POL007132,Health,0.8555431946770852,8,65883.92,Billing Team Escalation
+POL003575,Term Life,0.8554666812163326,8,39509.0,Claims Review + Goodwill Credit
+POL003475,Auto,0.8550488231704118,7,28131.44,Billing Team Escalation
+POL003458,Health,0.8544602321306003,9,66778.96,Billing Team Escalation
+POL004754,Auto,0.8536012021709237,8,57079.62,Premium Discount + Account Review
+POL006240,Property,0.8533240657307147,8,6717.92,Premium Discount + Account Review
+POL003986,Term Life,0.8532635407005008,7,59991.98,Premium Discount + Account Review
+POL003034,Term Life,0.8532038934461189,9,79297.09,Premium Discount + Account Review
+POL007322,Health,0.8526754841959898,9,13413.1,Claims Review + Goodwill Credit
+POL001779,Auto,0.8525000510113057,10,77798.97,Claims Review + Goodwill Credit
+POL004657,Health,0.8520898138688382,10,73235.0,Premium Discount + Account Review
+POL004560,Auto,0.8520310049923582,9,55209.15,Premium Discount + Account Review
+POL001162,Term Life,0.8511119760076821,11,67949.69,Premium Discount + Account Review
+POL001742,Auto,0.8510577599776274,7,19060.2,Claims Review + Goodwill Credit
+POL001908,Term Life,0.8507428333165923,9,15491.1,Billing Team Escalation
+POL007486,Health,0.8505753551928616,8,14818.23,Billing Team Escalation
+POL006145,Term Life,0.8503723723243197,9,35629.45,Billing Team Escalation
+POL003785,Term Life,0.8499875306029306,9,37190.37,Claims Review + Goodwill Credit
+POL000543,Health,0.8497664359942915,8,17238.53,Claims Review + Goodwill Credit
+POL007782,Auto,0.8496674486852891,9,65694.98,Claims Review + Goodwill Credit
+POL004761,Property,0.8492160240303601,12,72915.98,Premium Discount + Account Review
+POL000925,Term Life,0.849058051373202,9,26802.64,Billing Team Escalation
+POL007213,Health,0.8486626564644549,9,55535.41,Premium Discount + Account Review
+POL003955,Auto,0.8485090771993659,6,71826.54,Premium Discount + Account Review
+POL002926,Auto,0.8483425235289549,7,56066.83,Billing Team Escalation
+POL004914,Term Life,0.8480861255728904,8,53501.05,Premium Discount + Account Review
+POL000711,Health,0.8473925779672716,8,34251.57,Claims Review + Goodwill Credit
+POL002814,Health,0.846759288636573,6,11554.93,Premium Discount + Account Review
+POL004602,Property,0.8466681274005237,6,33139.61,Premium Discount + Account Review
+POL005753,Auto,0.8455071405157525,8,55959.87,Claims Review + Goodwill Credit
+POL004565,Auto,0.8450129056190616,9,59750.08,Claims Review + Goodwill Credit
+POL004224,Health,0.8448502326590058,7,31161.76,Premium Discount + Account Review
+POL004937,Health,0.8440105417750994,8,15248.75,Billing Team Escalation
+POL006961,Term Life,0.8438053683471257,10,64329.21,Premium Discount + Account Review
+POL006397,Term Life,0.8437515373433818,9,61320.31,Premium Discount + Account Review
+POL004612,Health,0.8436133795385757,9,33147.66,Premium Discount + Account Review
+POL001723,Term Life,0.8435046540238225,8,13066.28,Claims Review + Goodwill Credit
+POL005272,Term Life,0.8425782437726566,9,62943.14,Premium Discount + Account Review
+POL003989,Auto,0.8423092134277006,7,40244.25,Claims Review + Goodwill Credit
+POL005049,Health,0.842149441565783,10,62037.05,Billing Team Escalation
+POL007863,Health,0.8420856974697788,7,34030.97,Premium Discount + Account Review
+POL000483,Health,0.8419034482913964,10,68727.6,Claims Review + Goodwill Credit
+POL002571,Property,0.8418346078897349,9,49035.89,Billing Team Escalation
+POL001790,Term Life,0.8416153715503492,10,38904.24,Claims Review + Goodwill Credit
+POL005008,Term Life,0.8414412874895214,9,49633.42,Premium Discount + Account Review
+POL004409,Health,0.8414389822578641,8,42727.44,Premium Discount + Account Review
+POL001495,Health,0.8410389820026403,10,6342.03,Billing Team Escalation
+POL005048,Term Life,0.840521441776883,8,52741.05,Claims Review + Goodwill Credit
+POL005730,Auto,0.8397323914389816,6,22382.12,Claims Review + Goodwill Credit
+POL007399,Term Life,0.8395494793393855,7,37945.6,Billing Team Escalation
+POL001052,Property,0.8393074022878493,8,37199.98,Claims Review + Goodwill Credit
+POL003418,Term Life,0.8391006196631153,8,41831.76,Claims Review + Goodwill Credit
+POL001808,Term Life,0.839091091151995,9,57133.9,Premium Discount + Account Review
+POL006044,Auto,0.8389817539802383,8,78582.95,Claims Review + Goodwill Credit
+POL004870,Term Life,0.8388302874199354,10,23368.23,Billing Team Escalation
+POL006881,Term Life,0.8369438969592773,6,72494.49,Claims Review + Goodwill Credit
+POL006162,Term Life,0.8367720013389446,7,48902.46,Claims Review + Goodwill Credit
+POL001389,Health,0.8363481218038488,8,21225.62,Claims Review + Goodwill Credit
+POL006191,Health,0.8361332417304227,8,61764.95,Claims Review + Goodwill Credit
+POL006270,Term Life,0.8356067295497548,7,22014.07,Claims Review + Goodwill Credit
+POL006444,Health,0.8352151770221675,8,6579.29,Claims Review + Goodwill Credit
+POL000680,Auto,0.8339947511849638,9,24495.33,Premium Discount + Account Review
+POL000463,Health,0.8336329896638112,7,72289.84,Premium Discount + Account Review
+POL002931,Health,0.8325722323959655,7,20264.46,Claims Review + Goodwill Credit
+POL007696,Health,0.8320970984825969,9,46445.06,Billing Team Escalation
+POL002774,Health,0.8310514370912933,9,64058.08,Premium Discount + Account Review
+POL000577,Property,0.8302004573870779,8,12266.25,Claims Review + Goodwill Credit
+POL001062,Auto,0.8296926451159984,11,33528.73,Premium Discount + Account Review
+POL007379,Term Life,0.8295438935847532,11,64741.52,Premium Discount + Account Review
+POL006478,Health,0.8291517960536957,10,30522.95,Premium Discount + Account Review
+POL004486,Term Life,0.82910057047153,8,16885.88,Claims Review + Goodwill Credit
+POL003507,Health,0.8287674652191106,7,19481.78,Premium Discount + Account Review
+POL007096,Auto,0.8286859407610216,6,77299.44,Premium Discount + Account Review
+POL007163,Health,0.8285808552943411,8,42530.7,Claims Review + Goodwill Credit
+POL001629,Health,0.8284143670001534,9,58863.72,Premium Discount + Account Review
+POL001659,Health,0.8279308879213243,5,25155.16,Claims Review + Goodwill Credit
+POL000966,Auto,0.8276343731815009,8,13139.04,Premium Discount + Account Review
+POL006790,Auto,0.82721622813996,7,48481.86,Premium Discount + Account Review
+POL004553,Auto,0.8264824991511086,8,53129.85,Billing Team Escalation
+POL003415,Health,0.8263819486759671,8,29524.02,Premium Discount + Account Review
+POL000554,Auto,0.825441513911486,10,70490.83,Billing Team Escalation
+POL000011,Property,0.8250669888094623,9,39945.76,Billing Team Escalation
+POL002440,Health,0.8232767302445035,7,16299.32,Billing Team Escalation
+POL006878,Auto,0.8232199569023962,6,47645.31,Premium Discount + Account Review
+POL007033,Health,0.8230587697584921,7,20142.96,Claims Review + Goodwill Credit
+POL002533,Term Life,0.8229176399727905,6,75054.65,Claims Review + Goodwill Credit
+POL004479,Health,0.8228618154694745,8,19805.91,Billing Team Escalation
+POL000491,Health,0.8226574023174427,10,32051.61,Billing Team Escalation
+POL006033,Term Life,0.8224401880983905,6,32958.11,Billing Team Escalation
+POL002125,Health,0.8221209454209129,9,69165.74,Premium Discount + Account Review
+POL007021,Auto,0.8219203755760199,12,13261.22,Claims Review + Goodwill Credit
+POL002359,Term Life,0.8211274128404621,6,12298.47,Claims Review + Goodwill Credit
+POL003765,Term Life,0.8206709507761325,8,8117.97,Premium Discount + Account Review
+POL004664,Auto,0.819784175582301,7,73233.63,Claims Review + Goodwill Credit
+POL006990,Property,0.8190827877037119,9,61806.85,Billing Team Escalation
+POL007708,Health,0.8188166189333826,8,27251.86,Premium Discount + Account Review
+POL004628,Health,0.8180040829086128,11,16567.04,Billing Team Escalation
+POL005623,Auto,0.8178617646699601,7,69137.16,Premium Discount + Account Review
+POL003372,Term Life,0.8169132748410296,10,8470.3,Claims Review + Goodwill Credit
+POL005057,Term Life,0.8169066057570303,8,12171.99,Claims Review + Goodwill Credit
+POL004029,Term Life,0.816372298107091,7,61032.7,Premium Discount + Account Review
+POL005365,Property,0.8146239962833675,9,41061.06,Billing Team Escalation
+POL005437,Auto,0.814157039455963,9,50756.36,Billing Team Escalation
+POL000507,Auto,0.8139041333761193,7,5890.38,Claims Review + Goodwill Credit
+POL006691,Term Life,0.8137757909685966,7,18682.06,Premium Discount + Account Review
+POL005904,Term Life,0.8125241534441637,9,29842.56,Premium Discount + Account Review
+POL005801,Term Life,0.8123808531087219,8,26891.04,Claims Review + Goodwill Credit
+POL007895,Auto,0.8119321574888481,8,19557.33,Billing Team Escalation
+POL005577,Property,0.8112651717185765,7,15391.08,Claims Review + Goodwill Credit
+POL000173,Term Life,0.8111484006098908,6,39983.95,Claims Review + Goodwill Credit
+POL006213,Term Life,0.8104271895509693,6,32853.33,Premium Discount + Account Review
+POL006200,Auto,0.8101443279878433,9,67875.06,Premium Discount + Account Review
+POL000137,Auto,0.8101049261383438,6,13274.98,Premium Discount + Account Review
+POL007632,Term Life,0.8086476429386266,7,34818.24,Claims Review + Goodwill Credit
+POL003082,Term Life,0.8085480092873432,7,45023.87,Premium Discount + Account Review
+POL003504,Auto,0.808262539011195,7,22187.1,Premium Discount + Account Review
+POL007218,Property,0.8078501500715912,8,11975.99,Billing Team Escalation
+POL005310,Term Life,0.8077778235046834,6,16510.81,Claims Review + Goodwill Credit
+POL005248,Health,0.8076412292213432,8,33923.72,Claims Review + Goodwill Credit
+POL002342,Term Life,0.8064830702287862,9,43450.67,Premium Discount + Account Review
+POL000224,Term Life,0.8064427427613727,8,76936.99,Premium Discount + Account Review
+POL003422,Auto,0.8062178518811607,7,39031.39,Claims Review + Goodwill Credit
+POL005043,Health,0.8060334494746766,7,39311.58,Billing Team Escalation
+POL000936,Term Life,0.8057428327529212,8,62606.61,Premium Discount + Account Review
+POL005931,Term Life,0.8056304643925439,7,55913.3,Premium Discount + Account Review
+POL001284,Term Life,0.8053261245477079,7,7427.65,Claims Review + Goodwill Credit
+POL006446,Property,0.8049015420934462,8,54188.75,Premium Discount + Account Review
+POL006629,Health,0.8047889971890589,7,63443.37,Claims Review + Goodwill Credit
+POL001056,Auto,0.8046301768719125,8,39369.62,Claims Review + Goodwill Credit
+POL001268,Health,0.8040823465725343,8,31036.45,Premium Discount + Account Review
+POL006985,Term Life,0.803927851772849,9,45422.81,Billing Team Escalation
+POL006086,Auto,0.8038887223088319,9,70121.7,Premium Discount + Account Review
+POL000191,Auto,0.8031088999464091,9,11579.09,Claims Review + Goodwill Credit
+POL004686,Term Life,0.8010791899242009,7,14467.05,Billing Team Escalation
+POL002940,Term Life,0.8003685566713353,8,41946.78,Premium Discount + Account Review
+POL000078,Term Life,0.7994203404746798,6,18949.69,Premium Discount + Account Review
+POL002816,Health,0.7988795806324979,7,6288.08,Claims Review + Goodwill Credit
+POL005128,Term Life,0.7976816004021726,12,24065.48,Premium Discount + Account Review
+POL007873,Auto,0.7975648425028236,7,60619.96,Premium Discount + Account Review
+POL002597,Health,0.7975520833393319,8,32414.42,Claims Review + Goodwill Credit
+POL005352,Term Life,0.7974396931194252,8,19924.01,Premium Discount + Account Review
+POL006893,Term Life,0.7964206758425161,11,37788.48,Claims Review + Goodwill Credit
+POL006297,Term Life,0.79601726858965,7,33940.33,Premium Discount + Account Review
+POL001755,Auto,0.7950727765159608,7,41082.6,Premium Discount + Account Review
+POL007050,Auto,0.7945152878479189,8,61458.44,Premium Discount + Account Review
+POL000586,Term Life,0.7942443953119217,8,79708.23,Billing Team Escalation
+POL005854,Health,0.7938196331212195,7,39838.66,Claims Review + Goodwill Credit
+POL000311,Term Life,0.7934652429801908,9,34054.8,Claims Review + Goodwill Credit
+POL007138,Health,0.7930167425236562,9,69796.2,Claims Review + Goodwill Credit
+POL002025,Term Life,0.7928404408509664,8,33009.13,Premium Discount + Account Review
+POL004349,Health,0.7927091339135853,9,57503.57,Claims Review + Goodwill Credit
+POL003841,Term Life,0.7918855493246786,7,33435.82,Claims Review + Goodwill Credit
+POL004670,Term Life,0.7917004654319818,8,17708.34,Claims Review + Goodwill Credit
+POL001028,Term Life,0.7914609001807877,6,61881.49,Claims Review + Goodwill Credit
+POL001206,Health,0.7914601534602331,8,61453.04,Premium Discount + Account Review
+POL004293,Property,0.7913705598712448,8,5735.13,Premium Discount + Account Review
+POL001400,Term Life,0.7909350875493849,8,33029.63,Claims Review + Goodwill Credit
+POL001897,Term Life,0.7906533438455905,10,24337.65,Premium Discount + Account Review
+POL006288,Property,0.790559918404131,7,78620.75,Premium Discount + Account Review
+POL005614,Health,0.789347410061564,7,29881.26,Premium Discount + Account Review
+POL000801,Term Life,0.7892681037588725,8,56805.32,Premium Discount + Account Review
+POL004595,Health,0.7880834185767772,9,11415.04,Premium Discount + Account Review
+POL000973,Term Life,0.7878614418614248,7,40763.94,Claims Review + Goodwill Credit
+POL000470,Term Life,0.7867792196075989,7,13744.29,Premium Discount + Account Review
+POL002164,Health,0.7865322006075829,7,50923.86,Premium Discount + Account Review
+POL000397,Health,0.7855188525771094,6,58586.29,Premium Discount + Account Review
+POL002772,Auto,0.7843846013171225,9,59343.45,Claims Review + Goodwill Credit
+POL006970,Term Life,0.7843209073994672,8,55766.55,Premium Discount + Account Review
+POL003385,Auto,0.7842450086501241,8,24580.37,Claims Review + Goodwill Credit
+POL001965,Health,0.7840505995888788,8,71888.27,Claims Review + Goodwill Credit
+POL006548,Term Life,0.7836431511213758,8,56542.84,Premium Discount + Account Review
+POL005336,Term Life,0.7834870449881047,9,28979.36,Premium Discount + Account Review
+POL000941,Health,0.7832568891018268,6,41118.15,Claims Review + Goodwill Credit
+POL003074,Health,0.7826343085391602,9,70152.16,Claims Review + Goodwill Credit
+POL005473,Auto,0.7819640487551227,9,39162.9,Claims Review + Goodwill Credit
+POL000581,Property,0.7807970483753276,10,42962.34,Premium Discount + Account Review
+POL001929,Term Life,0.7806021993317006,8,59989.4,Premium Discount + Account Review
+POL003405,Auto,0.7801904736627407,11,63848.63,Premium Discount + Account Review
+POL003853,Property,0.7786672865183049,6,79544.53,Claims Review + Goodwill Credit
+POL000214,Auto,0.7781968110880745,9,39075.2,Claims Review + Goodwill Credit
+POL007366,Health,0.778061405589887,8,6506.04,Claims Review + Goodwill Credit
+POL000477,Health,0.7778359892051796,7,59150.41,Premium Discount + Account Review
+POL006089,Term Life,0.7770722844091437,8,64190.35,Claims Review + Goodwill Credit
+POL003119,Term Life,0.7769034098123332,10,46849.52,Claims Review + Goodwill Credit
+POL007731,Term Life,0.7766855099722166,8,14692.74,Claims Review + Goodwill Credit
+POL005250,Term Life,0.7758219257597988,9,31179.57,Premium Discount + Account Review
+POL000002,Auto,0.7750932968266491,7,38744.87,Premium Discount + Account Review
+POL005666,Auto,0.7747804933424888,9,73694.56,Premium Discount + Account Review
+POL007828,Health,0.7744016661996587,8,43593.29,Billing Team Escalation
+POL000431,Auto,0.7721470103453071,9,70072.99,Claims Review + Goodwill Credit
+POL005911,Property,0.7703856447598423,7,73838.74,Claims Review + Goodwill Credit
+POL007543,Property,0.7703366369141219,9,9523.0,Claims Review + Goodwill Credit
+POL001870,Auto,0.7701095580266364,7,21566.95,Claims Review + Goodwill Credit
+POL005245,Health,0.769667243258463,10,52574.1,Premium Discount + Account Review
+POL006021,Auto,0.769059500792705,10,29115.94,Premium Discount + Account Review
+POL005827,Term Life,0.7688557421044054,7,7090.0,Premium Discount + Account Review
+POL001172,Health,0.768159564464939,6,17372.78,Claims Review + Goodwill Credit
+POL007306,Auto,0.7671620700588347,7,45488.47,Claims Review + Goodwill Credit
+POL006516,Auto,0.7666685874922716,8,12258.07,Premium Discount + Account Review
+POL000265,Auto,0.766651530636202,9,31613.99,Claims Review + Goodwill Credit
+POL005144,Health,0.766014226245563,4,16892.06,Premium Discount + Account Review
+POL004276,Health,0.7659330754579744,10,72610.16,Claims Review + Goodwill Credit
+POL006741,Term Life,0.7656834833882338,7,19701.32,Premium Discount + Account Review
+POL000469,Property,0.7652251924793059,8,62353.27,Claims Review + Goodwill Credit
+POL002087,Health,0.7649713451235117,10,34764.65,Claims Review + Goodwill Credit
+POL000489,Auto,0.7648370601350779,9,53036.72,Premium Discount + Account Review
+POL004343,Auto,0.7639387195170423,13,37751.18,Claims Review + Goodwill Credit
+POL002753,Term Life,0.7638656507592743,8,28527.25,Billing Team Escalation
+POL000608,Health,0.7632062678737066,9,25294.48,Claims Review + Goodwill Credit
+POL004947,Auto,0.7626976207077325,11,14587.18,Claims Review + Goodwill Credit
+POL001640,Health,0.7626026270454707,7,11485.1,Premium Discount + Account Review
+POL001901,Term Life,0.7620782950607482,8,41692.09,Claims Review + Goodwill Credit
+POL001208,Term Life,0.7610098173638629,8,55758.17,Premium Discount + Account Review
+POL000566,Term Life,0.7603647887186754,10,41194.54,Claims Review + Goodwill Credit
+POL001448,Property,0.7602179143433635,6,23367.03,Premium Discount + Account Review
+POL003884,Auto,0.760037485105459,11,8292.85,Claims Review + Goodwill Credit
+POL007629,Auto,0.7599210205807435,7,65005.61,Claims Review + Goodwill Credit
+POL005469,Term Life,0.7594178053998061,7,58859.45,Claims Review + Goodwill Credit
+POL007659,Health,0.7583120531764399,6,8459.93,Premium Discount + Account Review
+POL001885,Health,0.7581282278397954,10,42396.58,Claims Review + Goodwill Credit
+POL003381,Health,0.7573332499670278,8,79381.08,Claims Review + Goodwill Credit
+POL001522,Term Life,0.7565539054193189,10,35740.64,Claims Review + Goodwill Credit
+POL000971,Property,0.756306834142008,7,73037.7,Claims Review + Goodwill Credit
+POL002140,Auto,0.756005874661167,7,40404.51,Billing Team Escalation
+POL002242,Health,0.7554451996780661,9,64405.2,Premium Discount + Account Review
+POL000965,Term Life,0.7545381130472149,8,69278.49,Billing Team Escalation
+POL000254,Term Life,0.7541544447029138,6,38406.78,Billing Team Escalation
+POL005726,Term Life,0.7536871350871243,9,26303.93,Claims Review + Goodwill Credit
+POL003751,Property,0.7526686268247986,10,76440.91,Claims Review + Goodwill Credit
+POL000601,Term Life,0.752285850199845,8,25667.86,Billing Team Escalation
+POL001101,Property,0.7502836185548415,8,69443.29,Billing Team Escalation
+POL000954,Health,0.7488357126300377,9,15808.42,CS Outreach Call
+POL001203,Term Life,0.7488215238180557,9,60549.98,Billing Team Escalation
+POL000641,Term Life,0.7487700089197799,11,24093.07,Claims Review + Goodwill Credit
+POL005114,Term Life,0.7474660794275096,6,48774.19,Claims Review + Goodwill Credit
+POL003160,Health,0.7468605646446566,8,73270.33,CS Outreach Call
+POL004591,Term Life,0.7464083037079962,10,7084.32,Billing Team Escalation
+POL000258,Health,0.7458785939348227,7,25910.91,CS Outreach Call
+POL000086,Auto,0.7450869460796719,11,59687.05,Claims Review + Goodwill Credit
+POL007483,Health,0.7441613432110101,11,67542.65,Claims Review + Goodwill Credit
+POL007190,Health,0.7437665792825027,8,68468.16,CS Outreach Call
+POL001102,Auto,0.7434518720360533,6,51097.77,Billing Team Escalation
+POL002648,Health,0.7430422824631904,7,69848.12,Claims Review + Goodwill Credit
+POL006056,Health,0.7429399036672533,9,26885.58,Billing Team Escalation
+POL000113,Auto,0.742711364745518,9,20976.69,Claims Review + Goodwill Credit
+POL006909,Health,0.7426759775529389,7,30020.55,Billing Team Escalation
+POL004546,Term Life,0.742489279067447,7,32472.31,CS Outreach Call
+POL005578,Property,0.7418470648380605,7,55196.81,Claims Review + Goodwill Credit
+POL007287,Term Life,0.7417572705996752,8,32147.69,CS Outreach Call
+POL002123,Health,0.741085059180715,8,19150.05,Billing Team Escalation
+POL007044,Property,0.7408602194441154,8,35112.14,Claims Review + Goodwill Credit
+POL003558,Term Life,0.7395463439022342,8,23391.42,Claims Review + Goodwill Credit
+POL007017,Term Life,0.7383500695706563,11,45130.11,Billing Team Escalation
+POL005513,Auto,0.7367942132888138,8,14820.9,Billing Team Escalation
+POL003222,Term Life,0.7360251851222103,6,68532.26,Claims Review + Goodwill Credit
+POL002360,Term Life,0.7359125619090366,9,74868.43,CS Outreach Call
+POL007789,Health,0.7351285944659776,8,37572.59,Billing Team Escalation
+POL005212,Term Life,0.7346910082094986,8,26929.25,Billing Team Escalation
+POL001796,Auto,0.7345273272201781,7,71046.85,CS Outreach Call
+POL000756,Health,0.734407486188859,8,26936.32,CS Outreach Call
+POL000302,Health,0.734369612191642,11,39727.31,Billing Team Escalation
+POL000141,Term Life,0.7333280728990466,6,23230.88,Billing Team Escalation
+POL007189,Health,0.7333229796444658,8,60027.45,CS Outreach Call
+POL005617,Term Life,0.7331456402645029,9,69500.43,Billing Team Escalation
+POL005881,Health,0.7329832453083707,9,32654.31,CS Outreach Call
+POL001864,Property,0.7326932555911775,10,27154.33,Claims Review + Goodwill Credit
+POL000764,Term Life,0.7319639486863381,9,68706.85,Billing Team Escalation
+POL000201,Term Life,0.7318641712625645,10,67957.93,CS Outreach Call
+POL005674,Property,0.7277730877300753,10,57538.47,Claims Review + Goodwill Credit
+POL002055,Health,0.7274154157203827,5,65126.22,CS Outreach Call
+POL005542,Auto,0.7265603713178921,9,32273.12,CS Outreach Call
+POL004069,Auto,0.724471353796927,8,37925.23,Claims Review + Goodwill Credit
+POL001980,Term Life,0.7244205108900919,6,78481.38,Billing Team Escalation
+POL001916,Auto,0.7240056199228583,6,78699.38,CS Outreach Call
+POL004138,Health,0.720892724854964,6,16974.01,CS Outreach Call
+POL007537,Term Life,0.7193740258611369,9,76711.1,Claims Review + Goodwill Credit
+POL001749,Term Life,0.7188193987033217,6,48205.04,Billing Team Escalation
+POL002459,Health,0.7169591927238657,8,17450.66,CS Outreach Call
+POL007267,Term Life,0.7168420268516587,8,20027.18,CS Outreach Call
+POL006284,Term Life,0.7165605342317037,7,71032.83,CS Outreach Call
+POL004842,Term Life,0.7158731066224315,10,51489.28,CS Outreach Call
+POL007826,Property,0.7156945543926612,9,5229.79,Claims Review + Goodwill Credit
+POL007573,Auto,0.7142833770937956,9,11912.46,CS Outreach Call
+POL001695,Term Life,0.7136230539184267,5,11679.63,CS Outreach Call
+POL004499,Health,0.7133878715685389,8,73958.21,CS Outreach Call
+POL000152,Term Life,0.7112998415174484,8,64953.09,CS Outreach Call
+POL006436,Health,0.711152520288334,9,64792.23,CS Outreach Call
+POL000492,Term Life,0.710202239914598,8,9159.64,CS Outreach Call
+POL004096,Term Life,0.7095083305810712,9,74921.16,CS Outreach Call
+POL000079,Term Life,0.7088201256200328,8,60671.48,CS Outreach Call
+POL001930,Health,0.7087788025142727,6,11940.31,Billing Team Escalation
+POL007551,Health,0.706034058808612,9,49824.19,CS Outreach Call
+POL004662,Health,0.7055647808531595,6,45177.76,CS Outreach Call
+POL007509,Property,0.7053517436497588,5,63288.92,Claims Review + Goodwill Credit
+POL003080,Auto,0.7053453127223716,6,33149.92,CS Outreach Call
+POL005644,Health,0.7044677206378308,10,23368.04,Claims Review + Goodwill Credit
+POL001280,Health,0.7042486907893926,7,25987.28,Claims Review + Goodwill Credit
+POL004301,Property,0.7039324554406682,6,23105.0,CS Outreach Call
+POL000576,Term Life,0.7029241689647305,7,64711.52,Claims Review + Goodwill Credit
+POL002767,Term Life,0.702472429070988,10,17460.32,Claims Review + Goodwill Credit
+POL003232,Term Life,0.7020233674269181,6,24355.57,CS Outreach Call
+POL001299,Auto,0.7005459328708061,7,16899.52,Billing Team Escalation
+POL004877,Health,0.70040909573948,9,15860.96,Billing Team Escalation
+POL001956,Health,0.6998948266503459,7,48941.08,CS Outreach Call
+POL001708,Health,0.6987122384541128,8,62161.25,CS Outreach Call
+POL001765,Term Life,0.6980404541579781,9,25864.88,Billing Team Escalation
+POL005565,Term Life,0.6972757419844591,5,43073.48,Billing Team Escalation
+POL005922,Term Life,0.6959737531944515,5,48757.71,Claims Review + Goodwill Credit
+POL002422,Auto,0.6958165798382363,9,64296.44,CS Outreach Call
+POL000874,Term Life,0.6958085169133725,6,15988.65,CS Outreach Call
+POL001800,Property,0.6956406763239465,6,20074.05,CS Outreach Call
+POL005533,Auto,0.6951681950304341,10,18702.02,Claims Review + Goodwill Credit
+POL000674,Health,0.6947783430683351,9,51975.29,Claims Review + Goodwill Credit
+POL007525,Health,0.6942659675173949,8,21734.9,Claims Review + Goodwill Credit
+POL003755,Term Life,0.6942381813904861,9,60691.61,Claims Review + Goodwill Credit
+POL003532,Term Life,0.6941441042740936,7,30783.44,Claims Review + Goodwill Credit
+POL004052,Auto,0.6935828295746652,8,13705.69,CS Outreach Call
+POL007797,Term Life,0.6925350602660018,11,21719.91,CS Outreach Call
+POL002669,Term Life,0.6914416887960002,7,32954.06,Claims Review + Goodwill Credit
+POL005322,Health,0.6905513449946571,8,49267.33,CS Outreach Call
+POL000287,Health,0.6902767687317622,10,6132.23,Billing Team Escalation
+POL004989,Auto,0.6890875385493257,7,54406.69,Claims Review + Goodwill Credit
+POL005552,Property,0.6887550415627117,9,49191.17,CS Outreach Call
+POL002717,Property,0.6882940466298135,10,45968.5,Claims Review + Goodwill Credit
+POL005553,Health,0.6880614132827788,7,58305.04,Billing Team Escalation
+POL007241,Property,0.6870568114238486,8,67545.92,CS Outreach Call
+POL002751,Health,0.6861063417934886,10,64742.61,CS Outreach Call
+POL004433,Property,0.6851702810280137,6,16386.97,CS Outreach Call
+POL000829,Health,0.6850807620718379,6,38814.49,CS Outreach Call
+POL003359,Health,0.6843764440557418,8,74560.67,Billing Team Escalation
+POL001652,Term Life,0.684344968908688,8,54131.88,CS Outreach Call
+POL003845,Health,0.6841945736179708,9,36569.32,Billing Team Escalation
+POL004758,Health,0.6832514900162836,7,77112.61,Claims Review + Goodwill Credit
+POL000484,Health,0.6825832163782322,8,31140.63,Claims Review + Goodwill Credit
+POL007530,Term Life,0.6814113277830733,6,41174.12,CS Outreach Call
+POL007881,Health,0.6812671976009255,6,71839.83,Claims Review + Goodwill Credit
+POL002246,Term Life,0.6804643821118064,8,64110.12,Claims Review + Goodwill Credit
+POL004785,Term Life,0.6802687184725873,7,58435.69,Claims Review + Goodwill Credit
+POL006205,Property,0.6801565679435398,10,16871.95,CS Outreach Call
+POL003546,Term Life,0.6778673362999854,6,39289.46,CS Outreach Call
+POL006569,Health,0.677683210932354,7,36541.19,CS Outreach Call
+POL006480,Health,0.6765021041390451,9,49641.22,Claims Review + Goodwill Credit
+POL005843,Term Life,0.6763044165327777,10,43620.21,Claims Review + Goodwill Credit
+POL007674,Health,0.6729385441949723,10,55928.55,CS Outreach Call
+POL001432,Health,0.6728842123916845,5,79273.03,Billing Team Escalation
+POL004501,Health,0.6727414452571919,6,53206.0,CS Outreach Call
+POL003476,Property,0.6725832489142357,10,43520.33,Claims Review + Goodwill Credit
+POL004775,Auto,0.6720704526715051,8,50583.02,CS Outreach Call
+POL005313,Property,0.672061970454943,7,76137.59,CS Outreach Call
+POL006216,Term Life,0.6718969558200885,7,41933.11,CS Outreach Call
+POL007129,Property,0.6718945647074369,9,61607.0,Billing Team Escalation
+POL005630,Auto,0.6706821502296687,6,5350.65,Billing Team Escalation
+POL006247,Auto,0.6698188246688072,7,37564.63,Claims Review + Goodwill Credit
+POL002180,Term Life,0.6693958939701699,6,79929.88,CS Outreach Call
+POL002803,Property,0.6681004605478362,8,11399.59,Claims Review + Goodwill Credit
+POL005224,Term Life,0.6657187550930951,6,65012.1,CS Outreach Call
+POL001623,Property,0.6656186537393615,11,67094.19,CS Outreach Call
+POL005490,Term Life,0.6646628553262149,8,74031.59,CS Outreach Call
+POL005348,Health,0.664100319147378,6,9481.15,CS Outreach Call
+POL004598,Health,0.6636714533080519,10,39279.05,Claims Review + Goodwill Credit
+POL005709,Property,0.6634709056348373,7,73641.19,CS Outreach Call
+POL003798,Term Life,0.6634384784338887,9,8781.84,Claims Review + Goodwill Credit
+POL007654,Auto,0.6632154841168865,8,74686.58,CS Outreach Call
+POL005855,Auto,0.6631404155822122,6,56431.02,CS Outreach Call
+POL001165,Auto,0.6620219353507689,8,14459.07,CS Outreach Call
+POL006364,Health,0.6615943012211875,8,52588.23,Claims Review + Goodwill Credit
+POL005749,Health,0.6611000385804728,5,46604.33,Billing Team Escalation
+POL006760,Term Life,0.6585176127589526,7,54062.08,CS Outreach Call
+POL005478,Auto,0.6581191982631781,7,65158.27,Claims Review + Goodwill Credit
+POL005595,Health,0.6575278276634957,8,62484.57,CS Outreach Call
+POL006079,Term Life,0.6572808812628484,8,36621.5,Claims Review + Goodwill Credit
+POL000822,Term Life,0.6572588962387945,10,70346.95,CS Outreach Call
+POL007247,Auto,0.6569149331431672,6,42301.32,Billing Team Escalation
+POL003822,Auto,0.6558995172535081,8,60281.37,Claims Review + Goodwill Credit
+POL000156,Health,0.6558624195449685,6,45976.95,Billing Team Escalation
+POL004988,Auto,0.654980018773619,6,18735.87,CS Outreach Call
+POL003803,Property,0.6544866529920982,8,56902.99,CS Outreach Call
+POL000251,Term Life,0.6542871861611097,11,6411.24,Claims Review + Goodwill Credit
+POL001724,Health,0.6526189012142504,8,23432.26,Billing Team Escalation
+POL001828,Auto,0.6520894378194075,6,60227.16,Billing Team Escalation
+POL005317,Property,0.6517348225696817,9,72266.44,Claims Review + Goodwill Credit
+POL001678,Term Life,0.6515272995657346,9,77430.26,CS Outreach Call
+POL002044,Auto,0.6513768511123343,8,13914.26,CS Outreach Call
+POL007156,Health,0.6512788116465268,9,36815.02,Claims Review + Goodwill Credit
+POL003303,Term Life,0.6502403958688935,7,8115.3,CS Outreach Call
+POL004487,Term Life,0.6488251359990704,7,38860.85,Billing Team Escalation
+POL000342,Term Life,0.6487398633822564,8,59466.36,CS Outreach Call
+POL006463,Term Life,0.6466512176350032,9,19078.41,Claims Review + Goodwill Credit
+POL006404,Term Life,0.6448293994422264,7,78273.96,Billing Team Escalation
+POL005616,Auto,0.6413618136249903,10,22164.28,CS Outreach Call
+POL002310,Health,0.6402734086187364,7,69184.04,Claims Review + Goodwill Credit
+POL004492,Health,0.6392837714899806,9,50192.1,Billing Team Escalation
+POL005650,Auto,0.6391755431070913,10,68243.95,CS Outreach Call
+POL003998,Health,0.6391345302773193,8,51298.47,CS Outreach Call
+POL005549,Term Life,0.6386425632042094,6,43024.62,Claims Review + Goodwill Credit
+POL004394,Property,0.6381539623045182,8,19524.1,Billing Team Escalation
+POL005263,Term Life,0.6380417335692771,7,33109.04,Billing Team Escalation
+POL002941,Health,0.6379582738695367,10,14219.12,CS Outreach Call
+POL004083,Auto,0.6377786513929085,10,49702.69,Claims Review + Goodwill Credit
+POL004573,Auto,0.6377254836353602,10,26944.86,Claims Review + Goodwill Credit
+POL007470,Auto,0.6372687788212414,6,31416.06,CS Outreach Call
+POL006612,Term Life,0.637225271509712,8,60977.55,Billing Team Escalation
+POL003053,Term Life,0.635495750958654,7,57754.48,CS Outreach Call
+POL002830,Health,0.6354622527256518,8,25273.63,CS Outreach Call
+POL004822,Term Life,0.6351531389775523,9,7735.44,Billing Team Escalation
+POL007535,Auto,0.6351269290836001,6,69223.74,CS Outreach Call
+POL000275,Health,0.6342173121597245,8,46241.43,Claims Review + Goodwill Credit
+POL005543,Auto,0.6333647812369075,8,43961.92,CS Outreach Call
+POL001392,Term Life,0.6317584329723501,7,55585.85,Claims Review + Goodwill Credit
+POL000337,Auto,0.6304759553139186,7,66904.76,CS Outreach Call
+POL004061,Term Life,0.6294960401349149,7,54484.93,CS Outreach Call
+POL006700,Health,0.629215668071271,10,72208.16,CS Outreach Call
+POL001483,Term Life,0.6290003731519991,8,65837.65,CS Outreach Call
+POL002076,Term Life,0.6282685407263687,9,39188.64,Claims Review + Goodwill Credit
+POL000068,Term Life,0.628125355051089,5,22824.97,Billing Team Escalation
+POL005496,Health,0.6279901970845632,8,26763.68,Claims Review + Goodwill Credit
+POL004698,Term Life,0.627635477781923,4,28031.4,Billing Team Escalation
+POL001051,Health,0.6268699768397056,9,52681.27,Billing Team Escalation
+POL001369,Term Life,0.6258830787918286,6,69623.33,CS Outreach Call
+POL001251,Health,0.6257816809253738,7,59301.92,Claims Review + Goodwill Credit
+POL006176,Health,0.625243702065361,10,40381.64,Billing Team Escalation
+POL004645,Auto,0.6250775699461197,9,67435.63,CS Outreach Call
+POL003170,Health,0.6245870274492455,6,33832.61,Claims Review + Goodwill Credit
+POL004171,Property,0.6245208066935255,7,49249.68,CS Outreach Call
+POL007644,Term Life,0.6244939092956721,6,65901.49,Claims Review + Goodwill Credit
+POL006685,Term Life,0.624306564933828,7,46886.93,CS Outreach Call
+POL004821,Term Life,0.6240139937309351,9,8522.55,Billing Team Escalation
+POL007297,Health,0.6237627426707042,6,18928.91,Billing Team Escalation
+POL005297,Health,0.6237197188892062,8,33790.45,Claims Review + Goodwill Credit
+POL002347,Term Life,0.6237019362695737,8,70258.71,Billing Team Escalation
+POL006395,Term Life,0.6233716187064693,5,54919.82,CS Outreach Call
+POL000937,Property,0.6228903195540016,6,56494.84,CS Outreach Call
+POL001049,Term Life,0.6228429240832543,8,67529.33,Claims Review + Goodwill Credit
+POL006427,Auto,0.62197366855182,7,27912.77,Billing Team Escalation
+POL005728,Term Life,0.6219599113096282,8,73118.08,Claims Review + Goodwill Credit
+POL003610,Health,0.6211962289713169,6,59129.87,Claims Review + Goodwill Credit
+POL006852,Property,0.619697659798838,9,38389.13,CS Outreach Call
+POL001350,Auto,0.6139831246336304,8,73857.73,Claims Review + Goodwill Credit
+POL004265,Health,0.6135460613560461,6,63155.61,CS Outreach Call
+POL003506,Property,0.6132549235568733,5,79660.29,CS Outreach Call
+POL000859,Term Life,0.6131345047160112,9,46054.16,CS Outreach Call
+POL007312,Term Life,0.6121858300200181,6,18372.09,Claims Review + Goodwill Credit
+POL001775,Term Life,0.6116981959171197,10,34165.49,CS Outreach Call
+POL004857,Property,0.6102436390668569,7,46321.63,CS Outreach Call
+POL005920,Term Life,0.6099168350783231,12,43369.71,Claims Review + Goodwill Credit
+POL001443,Health,0.6088010995820081,6,40554.39,Claims Review + Goodwill Credit
+POL000866,Term Life,0.6083757329223431,8,74769.58,Claims Review + Goodwill Credit
+POL005821,Health,0.6065179570354728,7,6252.86,Claims Review + Goodwill Credit
+POL006007,Term Life,0.6062237158070055,9,34130.92,Billing Team Escalation
+POL000557,Term Life,0.6043328721166765,7,12390.55,CS Outreach Call
+POL004959,Auto,0.603899414259094,8,42963.29,CS Outreach Call
+POL007814,Term Life,0.6037381279307283,9,65088.9,Billing Team Escalation
+POL007468,Health,0.6032912183814488,9,77624.75,Claims Review + Goodwill Credit
+POL004638,Auto,0.6022137249441434,6,76258.51,Claims Review + Goodwill Credit
+POL007326,Term Life,0.6016034620186764,9,60710.51,Claims Review + Goodwill Credit
+POL004391,Health,0.6007923874511172,9,47727.4,Billing Team Escalation
+POL007182,Auto,0.6001790381706014,7,49666.94,Billing Team Escalation
+POL006988,Term Life,0.5997561825465151,6,18575.51,Claims Review + Goodwill Credit
+POL005486,Term Life,0.5995221035766041,7,37325.22,Billing Team Escalation
+POL004818,Auto,0.5980664829894621,8,14243.59,Billing Team Escalation
+POL000873,Health,0.5980136117470416,8,41890.48,CS Outreach Call
+POL002627,Health,0.5979644371397503,8,54712.51,Claims Review + Goodwill Credit
+POL005167,Term Life,0.5977432866451419,8,10573.86,Billing Team Escalation
+POL002220,Auto,0.5967131079767958,9,14762.35,CS Outreach Call
+POL007784,Property,0.5960210675248376,9,29569.73,Claims Review + Goodwill Credit
+POL000298,Health,0.5955502613458341,6,23061.82,CS Outreach Call
+POL007515,Auto,0.5953494708425828,8,51284.48,CS Outreach Call
+POL000436,Term Life,0.5950633934296783,6,47270.83,Claims Review + Goodwill Credit
+POL003992,Auto,0.5947386206919396,7,30713.94,Claims Review + Goodwill Credit
+POL000614,Auto,0.594567160450459,10,14126.93,Claims Review + Goodwill Credit
+POL000423,Health,0.5930286567303861,9,15800.73,Billing Team Escalation
+POL002207,Auto,0.5925750069702699,8,71283.82,Claims Review + Goodwill Credit
+POL006135,Term Life,0.5921347936538484,7,64752.3,CS Outreach Call
+POL001952,Health,0.5916899512917908,9,67507.9,CS Outreach Call
+POL005706,Auto,0.591575632758985,8,11956.07,CS Outreach Call
+POL006651,Auto,0.5894122119329449,7,19253.2,Claims Review + Goodwill Credit
+POL000701,Term Life,0.5879082663504401,8,77582.46,Billing Team Escalation
+POL007963,Health,0.5877274013919528,9,22945.58,CS Outreach Call
+POL005993,Health,0.5856881311985196,9,23951.95,Billing Team Escalation
+POL000573,Health,0.5830084360393131,8,6145.02,Billing Team Escalation
+POL004328,Term Life,0.5825665519048674,7,26276.48,CS Outreach Call
+POL000415,Health,0.5822473968393199,9,70730.59,Claims Review + Goodwill Credit
+POL005170,Health,0.5811710498825166,9,69351.97,Claims Review + Goodwill Credit
+POL006617,Term Life,0.5807606930726669,11,47047.92,CS Outreach Call
+POL002787,Term Life,0.5803988374096687,7,41018.48,Claims Review + Goodwill Credit
+POL004114,Health,0.5801530306217351,6,76737.52,Billing Team Escalation
+POL003893,Health,0.5796996585877238,5,20566.82,CS Outreach Call
+POL000333,Term Life,0.5796262427346516,6,75510.42,CS Outreach Call
+POL001736,Health,0.5793621820022659,6,38926.92,CS Outreach Call
+POL000817,Term Life,0.5788692620506919,8,21381.83,Billing Team Escalation
+POL003871,Term Life,0.5779338390245852,8,28954.75,Claims Review + Goodwill Credit
+POL006059,Auto,0.576625159349339,9,38444.12,CS Outreach Call
+POL006677,Term Life,0.5757437543383082,9,6766.38,CS Outreach Call
+POL001318,Term Life,0.575252725209654,6,67186.65,Claims Review + Goodwill Credit
+POL007794,Auto,0.5749550327677463,10,63699.87,CS Outreach Call
+POL001911,Auto,0.5734895557156926,10,8673.52,Claims Review + Goodwill Credit
+POL000378,Auto,0.5734028758232549,11,66226.41,Claims Review + Goodwill Credit
+POL006749,Health,0.5732971482325825,8,40859.14,Claims Review + Goodwill Credit
+POL004967,Auto,0.5716326012076258,8,30569.24,CS Outreach Call
+POL007660,Term Life,0.5713618872489004,7,19641.24,CS Outreach Call
+POL005017,Term Life,0.5712672431473722,6,68289.33,CS Outreach Call
+POL003983,Term Life,0.5690531826615995,7,16750.76,Billing Team Escalation
+POL006594,Auto,0.5690188871582269,5,24917.36,Billing Team Escalation
+POL001205,Auto,0.568804377259422,9,32407.21,Billing Team Escalation
+POL002786,Property,0.5680837943157673,7,14859.85,Billing Team Escalation
+POL001685,Auto,0.5679676847401651,8,16214.85,CS Outreach Call
+POL007675,Health,0.5670303671826277,7,70570.06,Claims Review + Goodwill Credit
+POL001335,Health,0.5667646568691823,7,63683.25,Billing Team Escalation
+POL004212,Health,0.5664502094187083,7,39184.35,Billing Team Escalation
+POL002201,Term Life,0.5659590565325195,6,5599.63,CS Outreach Call
+POL007931,Auto,0.565781406724757,12,54416.7,Billing Team Escalation
+POL005919,Health,0.5653640323086504,7,32822.4,Billing Team Escalation
+POL001574,Term Life,0.5644533905144107,8,55689.75,CS Outreach Call
+POL002045,Auto,0.5642765749521947,9,8677.27,CS Outreach Call
+POL002554,Term Life,0.5641737545135422,9,29208.0,Billing Team Escalation
+POL000024,Health,0.5638643301214099,7,37455.23,Claims Review + Goodwill Credit
+POL003150,Health,0.5634510042226116,8,18071.01,Claims Review + Goodwill Credit
+POL003744,Term Life,0.5625760307361463,8,15523.4,Claims Review + Goodwill Credit
+POL003317,Term Life,0.5617028321323128,8,16019.27,Claims Review + Goodwill Credit
+POL000852,Term Life,0.5610845909492316,7,38134.69,CS Outreach Call
+POL002206,Term Life,0.5608389409266706,5,24111.05,Billing Team Escalation
+POL004617,Auto,0.5601147349084544,8,7914.44,CS Outreach Call
+POL004048,Auto,0.5595075155161048,8,79777.04,Claims Review + Goodwill Credit
+POL000058,Term Life,0.5587412908493403,7,68976.52,Claims Review + Goodwill Credit
+POL006460,Term Life,0.558448688511927,7,33046.33,Billing Team Escalation
+POL005124,Property,0.5579541278605786,8,49189.54,Claims Review + Goodwill Credit
+POL002319,Health,0.5578609716667648,8,62827.43,Claims Review + Goodwill Credit
+POL003401,Term Life,0.5565428612456986,9,20010.89,Claims Review + Goodwill Credit
+POL005784,Term Life,0.5562498521027992,8,57638.61,CS Outreach Call
+POL006487,Term Life,0.5561830234205904,10,30678.75,Billing Team Escalation
+POL000310,Health,0.5558312820873099,6,19558.25,CS Outreach Call
+POL002679,Health,0.5556837585943837,8,61756.99,CS Outreach Call
+POL004046,Term Life,0.554403840241159,5,10107.69,CS Outreach Call
+POL007210,Health,0.553389993727749,7,24034.5,CS Outreach Call
+POL004308,Auto,0.5533750254759073,8,74135.56,CS Outreach Call
+POL005783,Term Life,0.5533444719497634,7,67078.45,CS Outreach Call
+POL007157,Health,0.5532424909945595,6,63975.75,CS Outreach Call
+POL004840,Property,0.5528110128039815,10,61787.32,CS Outreach Call
+POL006876,Term Life,0.552320877178521,9,35796.79,CS Outreach Call
+POL002876,Health,0.5514931552901399,8,43442.31,CS Outreach Call
+POL006414,Term Life,0.5508788389610634,6,57286.36,CS Outreach Call
+POL006031,Term Life,0.5507733201477263,7,69296.55,CS Outreach Call
+POL006778,Property,0.5503654384823753,6,23798.77,CS Outreach Call

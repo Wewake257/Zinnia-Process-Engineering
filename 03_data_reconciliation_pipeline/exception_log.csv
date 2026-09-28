@@ -1,0 +1,6 @@
+Rule,Records_Flagged,Action
+Missing RecordID,718,Dropped — cannot route without primary key
+Duplicate Record,387,Deduplicated — kept first occurrence
+Format Violation (Amount),993,Imputed median — flagged for manual review
+Range Anomaly (Negative Amount),219,Set to 0 — flagged for rework
+Missing Region,623,Filled with mode value
